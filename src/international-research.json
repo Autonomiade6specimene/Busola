@@ -1,0 +1,1047 @@
+{
+  "sources": {
+    "utDiploma27": {
+      "label": "Twente · diploma românească și discipline",
+      "url": "https://www.utwente.nl/en/education/bachelor/application-admission/admission/",
+      "year": "2027",
+      "checked": "02.11.2026"
+    },
+    "utEnglish27": {
+      "label": "Twente · certificate de limbă",
+      "url": "https://www.utwente.nl/en/education/bachelor/application-admission/admission/language-requirements/",
+      "year": "2027",
+      "checked": "02.11.2026"
+    },
+    "utFee27": {
+      "label": "Twente · taxe și estimarea cheltuielilor",
+      "url": "https://www.utwente.nl/en/education/bachelor/tuition-fees/",
+      "year": "2027–2028; trai: estimare fără an explicit",
+      "checked": "02.11.2026"
+    },
+    "utApplicationFee": {
+      "label": "Twente · taxa de procesare",
+      "url": "https://www.utwente.nl/en/education/bachelor/application-admission/application/application-fee/",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "utDeadlines": {
+      "label": "Twente · calendar pentru cetățeni SEE",
+      "url": "https://www.utwente.nl/en/education/bachelor/application-admission/bachelor-deadlines/",
+      "year": "calendar general publicat",
+      "checked": "02.11.2026"
+    },
+    "utDocuments": {
+      "label": "Twente · documentele dosarului",
+      "url": "https://www.utwente.nl/en/education/bachelor/application-admission/application/required-application-documents/",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "utTcsMatch27": {
+      "label": "Twente TCS · înscriere și matching 2027",
+      "url": "https://www.utwente.nl/en/education/bachelor/programmes/technical-computer-science/enrolment/",
+      "year": "2027",
+      "checked": "02.11.2026"
+    },
+    "uttcsOverview": {
+      "label": "Twente · technical-computer-science",
+      "url": "https://www.utwente.nl/en/education/bachelor/programmes/technical-computer-science/",
+      "year": "2027",
+      "checked": "02.11.2026"
+    },
+    "uttcsAdmission": {
+      "label": "Twente · admitere technical-computer-science",
+      "url": "https://www.utwente.nl/en/education/bachelor/programmes/technical-computer-science/enrolment/admission/",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "utbitOverview": {
+      "label": "Twente · business-information-technology",
+      "url": "https://www.utwente.nl/en/education/bachelor/programmes/business-information-technology/",
+      "year": "2027",
+      "checked": "02.11.2026"
+    },
+    "utbitAdmission": {
+      "label": "Twente · admitere business-information-technology",
+      "url": "https://www.utwente.nl/en/education/bachelor/programmes/business-information-technology/enrolment/admission/",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "utibaOverview": {
+      "label": "Twente · international-business-administration",
+      "url": "https://www.utwente.nl/en/education/bachelor/programmes/international-business-administration/",
+      "year": "2027",
+      "checked": "02.11.2026"
+    },
+    "utibaAdmission": {
+      "label": "Twente · admitere international-business-administration",
+      "url": "https://www.utwente.nl/en/education/bachelor/programmes/international-business-administration/enrolment/admission/",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "umDiploma27": {
+      "label": "Maastricht · diplome echivalente VWO",
+      "url": "https://www.maastrichtuniversity.nl/non-Dutch-diplomas-equivalent-VWO",
+      "year": "2027–2028",
+      "checked": "02.11.2026"
+    },
+    "umSubjects27": {
+      "label": "Maastricht · discipline suplimentare",
+      "url": "https://www.maastrichtuniversity.nl/additional-subject-requirements",
+      "year": "2027–2028",
+      "checked": "02.11.2026"
+    },
+    "umLiving": {
+      "label": "Maastricht · buget de trai, tabel Nibud",
+      "url": "https://www.maastrichtuniversity.nl/studeren/studentenleven/cost-studying-financial-assistance",
+      "year": "date Nibud 2024; pagină curentă",
+      "checked": "02.11.2026"
+    },
+    "umOpenAdmission": {
+      "label": "Maastricht · programe fără numerus fixus",
+      "url": "https://www.maastrichtuniversity.nl/study/admission-enrolment/applying-maastricht-university/free-selective-and-fixus-bachelors",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "umTuition27": {
+      "label": "Maastricht · condițiile taxei statutare",
+      "url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/tuition-fees",
+      "year": "2027–2028",
+      "checked": "02.11.2026"
+    },
+    "umcsAdmission": {
+      "label": "Maastricht · computer-science · admitere",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/computer-science/admission-requirements",
+      "year": "2027–2028",
+      "checked": "02.11.2026"
+    },
+    "umcsFee": {
+      "label": "Maastricht · computer-science · taxe",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/computer-science/tuition-fees",
+      "year": "2027–2028",
+      "checked": "02.11.2026"
+    },
+    "umcsOverview": {
+      "label": "Maastricht · computer-science · program",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/computer-science",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "umcsCurriculum": {
+      "label": "Maastricht · computer-science · curriculum",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/computer-science/courses-and-curriculum",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "umdsaiAdmission": {
+      "label": "Maastricht · data-science-and-artificial-intelligence · admitere",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/data-science-and-artificial-intelligence/admission-requirements",
+      "year": "2027–2028",
+      "checked": "02.11.2026"
+    },
+    "umdsaiFee": {
+      "label": "Maastricht · data-science-and-artificial-intelligence · taxe",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/data-science-and-artificial-intelligence/tuition-fees",
+      "year": "2027–2028",
+      "checked": "02.11.2026"
+    },
+    "umdsaiOverview": {
+      "label": "Maastricht · data-science-and-artificial-intelligence · program",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/data-science-and-artificial-intelligence",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "umdsaiCurriculum": {
+      "label": "Maastricht · data-science-and-artificial-intelligence · curriculum",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/data-science-and-artificial-intelligence/courses-and-curriculum",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "umartsAdmission": {
+      "label": "Maastricht · arts-and-culture · admitere",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/arts-and-culture/admission-requirements",
+      "year": "2027–2028",
+      "checked": "02.11.2026"
+    },
+    "umartsFee": {
+      "label": "Maastricht · arts-and-culture · taxe",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/arts-and-culture/tuition-fees",
+      "year": "2027–2028",
+      "checked": "02.11.2026"
+    },
+    "umartsOverview": {
+      "label": "Maastricht · arts-and-culture · program",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/arts-and-culture",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    },
+    "umartsCurriculum": {
+      "label": "Maastricht · arts-and-culture · curriculum",
+      "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/arts-and-culture/courses-and-curriculum",
+      "year": "pagina curentă",
+      "checked": "02.11.2026"
+    }
+  },
+  "updates": {
+    "tcs": {
+      "faculty": "Electrical Engineering, Mathematics and Computer Science",
+      "duration": "3 ani",
+      "language": "en",
+      "admissionSummary": "Evaluarea diplomei, matematicii și englezei; decizia aparține universității.",
+      "requirements": [
+        "Diplomă de bacalaureat după 2005, cu matematică la examenul național.",
+        "Matematică la nivel VWO B; echivalarea se verifică individual.",
+        "Scutire dacă engleza este probă națională finală; echivalarea prin certificat necesită verificare.",
+        "Matching obligatoriu: chestionar + eveniment. Feedbackul nu este eliminatoriu; nu este examen de selecție."
+      ],
+      "documents": [
+        "Bac, rezultate și foaie matricolă în original.",
+        "Înainte de absolvire: situație școlară, adeverință cu sesiunea/probele bacului și materiile anului final.",
+        "CI/pașaport, dovada englezei/scutirii și factura taxei; urmează lista personalizată din Osiris."
+      ],
+      "facts": [
+        {
+          "label": "Taxă anuală UE",
+          "value": "2.771 €; taxa statutară, dacă îndeplinești condițiile. Taxa instituțională poate fi diferită.",
+          "year": "2027–2028",
+          "status": "official",
+          "source": [
+            "utFee27"
+          ]
+        },
+        {
+          "label": "Trai / lună",
+          "value": "≈1.311 €, fără școlarizare. Estimarea publicată de UT; include chirie, hrană, transport și alte cheltuieli.",
+          "year": "estimare publicată; an nespecificat",
+          "status": "estimate",
+          "source": [
+            "utFee27"
+          ]
+        },
+        {
+          "label": "Taxă înscriere",
+          "value": "100 €, nerambursabilă, pentru diplomă străină; o singură plată pentru programele UT din aceeași sesiune. Există scutiri limitate.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "utApplicationFee"
+          ]
+        },
+        {
+          "label": "Engleză — exemple acceptate",
+          "value": "IELTS Academic ≥6,0, secțiuni ≥5,5; Cambridge C1/C2 ≥169, secțiuni ≥162. IELTS: valabilitate 2 ani; variantele online/One Skill Retake neacceptate.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utEnglish27"
+          ]
+        },
+        {
+          "label": "TOEFL iBT",
+          "value": "Înainte de ian.2026: ≥90/120, secțiuni ≥21. După ian.2026: ≥4,5; Reading/Listening/Writing ≥4,5, Speaking ≥4. Valabilitate 2 ani. Alte certificate: vezi sursa.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utEnglish27"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "Fără numerus fixus; nu există contingent competitiv de locuri declarat pentru acest program.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "uttcsOverview"
+          ]
+        },
+        {
+          "label": "Ultima medie",
+          "value": "Nu se aplică o ultimă medie de repartizare ca în România: admitere după condiții și evaluarea dosarului.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "uttcsOverview",
+            "utDiploma27"
+          ]
+        },
+        {
+          "label": "Durată / limbă",
+          "value": "3 ani, în engleză.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "uttcsOverview"
+          ]
+        },
+        {
+          "label": "Termen înscriere",
+          "value": "Studielink și Osiris: 30 aprilie 2027, 23:59 CET, conform paginii programului.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "utTcsMatch27"
+          ]
+        },
+        {
+          "label": "Matching",
+          "value": "Evenimente 12 martie / 4 iunie 2027; înscriere la eveniment până la 5 martie / 28 mai.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "utTcsMatch27"
+          ]
+        }
+      ],
+      "source": [
+        "utDiploma27",
+        "utEnglish27",
+        "uttcsOverview",
+        "uttcsAdmission",
+        "utFee27",
+        "utApplicationFee",
+        "utDocuments",
+        "utDeadlines",
+        "utTcsMatch27"
+      ],
+      "budget": {
+        "currency": "EUR",
+        "tuitionAnnual": 2771,
+        "tuitionYear": "2027–2028",
+        "livingMonthly": 1311,
+        "livingYear": "estimare publicată; an nespecificat",
+        "source": [
+          "utFee27"
+        ]
+      },
+      "deadline": {
+        "date": "2027-04-30",
+        "label": "TCS · înscriere Studielink + Osiris, 23:59 CET (ora indicată de UT)",
+        "year": "2027",
+        "source": [
+          "utTcsMatch27"
+        ]
+      }
+    },
+    "bit": {
+      "faculty": "Electrical Engineering, Mathematics and Computer Science",
+      "duration": "3 ani",
+      "language": "en",
+      "admissionSummary": "Evaluarea diplomei, matematicii și englezei; decizia aparține universității.",
+      "requirements": [
+        "Diplomă de bacalaureat după 2005, cu matematică la examenul național.",
+        "Matematică la nivel VWO B; echivalarea se verifică individual.",
+        "Scutire dacă engleza este probă națională finală; echivalarea prin certificat necesită verificare."
+      ],
+      "documents": [
+        "Bac, rezultate și foaie matricolă în original.",
+        "Înainte de absolvire: situație școlară, adeverință cu sesiunea/probele bacului și materiile anului final.",
+        "CI/pașaport, dovada englezei/scutirii și factura taxei; urmează lista personalizată din Osiris."
+      ],
+      "facts": [
+        {
+          "label": "Taxă anuală UE",
+          "value": "2.771 €; taxa statutară, dacă îndeplinești condițiile. Taxa instituțională poate fi diferită.",
+          "year": "2027–2028",
+          "status": "official",
+          "source": [
+            "utFee27"
+          ]
+        },
+        {
+          "label": "Trai / lună",
+          "value": "≈1.311 €, fără școlarizare. Estimarea publicată de UT; include chirie, hrană, transport și alte cheltuieli.",
+          "year": "estimare publicată; an nespecificat",
+          "status": "estimate",
+          "source": [
+            "utFee27"
+          ]
+        },
+        {
+          "label": "Taxă înscriere",
+          "value": "100 €, nerambursabilă, pentru diplomă străină; o singură plată pentru programele UT din aceeași sesiune. Există scutiri limitate.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "utApplicationFee"
+          ]
+        },
+        {
+          "label": "Engleză — exemple acceptate",
+          "value": "IELTS Academic ≥6,0, secțiuni ≥5,5; Cambridge C1/C2 ≥169, secțiuni ≥162. IELTS: valabilitate 2 ani; variantele online/One Skill Retake neacceptate.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utEnglish27"
+          ]
+        },
+        {
+          "label": "TOEFL iBT",
+          "value": "Înainte de ian.2026: ≥90/120, secțiuni ≥21. După ian.2026: ≥4,5; Reading/Listening/Writing ≥4,5, Speaking ≥4. Valabilitate 2 ani. Alte certificate: vezi sursa.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utEnglish27"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "Fără numerus fixus; nu există contingent competitiv de locuri declarat pentru acest program.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utbitOverview"
+          ]
+        },
+        {
+          "label": "Ultima medie",
+          "value": "Nu se aplică o ultimă medie de repartizare ca în România: admitere după condiții și evaluarea dosarului.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utbitOverview",
+            "utDiploma27"
+          ]
+        },
+        {
+          "label": "Durată / limbă",
+          "value": "3 ani, în engleză.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utbitOverview"
+          ]
+        },
+        {
+          "label": "Calendar UE",
+          "value": "Dosar înainte de 1 iulie; remedierea lipsurilor înainte de 15 august; copii certificate înainte de 1 septembrie. Tabelul nu precizează anul: reconfirmă 2027 în Osiris.",
+          "year": "calendar general, an neprecizat",
+          "status": "official",
+          "source": [
+            "utDeadlines"
+          ]
+        }
+      ],
+      "source": [
+        "utDiploma27",
+        "utEnglish27",
+        "utbitOverview",
+        "utbitAdmission",
+        "utFee27",
+        "utApplicationFee",
+        "utDocuments",
+        "utDeadlines"
+      ],
+      "budget": {
+        "currency": "EUR",
+        "tuitionAnnual": 2771,
+        "tuitionYear": "2027–2028",
+        "livingMonthly": 1311,
+        "livingYear": "estimare publicată; an nespecificat",
+        "source": [
+          "utFee27"
+        ]
+      }
+    },
+    "iba": {
+      "faculty": "Behavioural, Management & Social Sciences",
+      "duration": "3 ani",
+      "language": "en",
+      "admissionSummary": "Evaluarea diplomei, matematicii și englezei; decizia aparține universității.",
+      "requirements": [
+        "Diplomă de bacalaureat după 2005, cu matematică la examenul național.",
+        "Matematică la nivel VWO A sau B.",
+        "Scutire dacă engleza este probă națională finală; echivalarea prin certificat necesită verificare."
+      ],
+      "documents": [
+        "Bac, rezultate și foaie matricolă în original.",
+        "Înainte de absolvire: situație școlară, adeverință cu sesiunea/probele bacului și materiile anului final.",
+        "CI/pașaport, dovada englezei/scutirii și factura taxei; urmează lista personalizată din Osiris."
+      ],
+      "facts": [
+        {
+          "label": "Taxă anuală UE",
+          "value": "2.771 €; taxa statutară, dacă îndeplinești condițiile. Taxa instituțională poate fi diferită.",
+          "year": "2027–2028",
+          "status": "official",
+          "source": [
+            "utFee27"
+          ]
+        },
+        {
+          "label": "Trai / lună",
+          "value": "≈1.311 €, fără școlarizare. Estimarea publicată de UT; include chirie, hrană, transport și alte cheltuieli.",
+          "year": "estimare publicată; an nespecificat",
+          "status": "estimate",
+          "source": [
+            "utFee27"
+          ]
+        },
+        {
+          "label": "Taxă înscriere",
+          "value": "100 €, nerambursabilă, pentru diplomă străină; o singură plată pentru programele UT din aceeași sesiune. Există scutiri limitate.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "utApplicationFee"
+          ]
+        },
+        {
+          "label": "Engleză — exemple acceptate",
+          "value": "IELTS Academic ≥6,0, secțiuni ≥5,5; Cambridge C1/C2 ≥169, secțiuni ≥162. IELTS: valabilitate 2 ani; variantele online/One Skill Retake neacceptate.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utEnglish27"
+          ]
+        },
+        {
+          "label": "TOEFL iBT",
+          "value": "Înainte de ian.2026: ≥90/120, secțiuni ≥21. După ian.2026: ≥4,5; Reading/Listening/Writing ≥4,5, Speaking ≥4. Valabilitate 2 ani. Alte certificate: vezi sursa.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utEnglish27"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "Fără numerus fixus; nu există contingent competitiv de locuri declarat pentru acest program.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utibaOverview"
+          ]
+        },
+        {
+          "label": "Ultima medie",
+          "value": "Nu se aplică o ultimă medie de repartizare ca în România: admitere după condiții și evaluarea dosarului.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utibaOverview",
+            "utDiploma27"
+          ]
+        },
+        {
+          "label": "Durată / limbă",
+          "value": "3 ani, în engleză.",
+          "year": "Pagina curentă; verifică pentru anul aplicării",
+          "status": "official",
+          "source": [
+            "utibaOverview"
+          ]
+        },
+        {
+          "label": "Calendar UE",
+          "value": "Dosar înainte de 1 iulie; remedierea lipsurilor înainte de 15 august; copii certificate înainte de 1 septembrie. Tabelul nu precizează anul: reconfirmă 2027 în Osiris.",
+          "year": "calendar general, an neprecizat",
+          "status": "official",
+          "source": [
+            "utDeadlines"
+          ]
+        }
+      ],
+      "source": [
+        "utDiploma27",
+        "utEnglish27",
+        "utibaOverview",
+        "utibaAdmission",
+        "utFee27",
+        "utApplicationFee",
+        "utDocuments",
+        "utDeadlines"
+      ],
+      "budget": {
+        "currency": "EUR",
+        "tuitionAnnual": 2771,
+        "tuitionYear": "2027–2028",
+        "livingMonthly": 1311,
+        "livingYear": "estimare publicată; an nespecificat",
+        "source": [
+          "utFee27"
+        ]
+      }
+    }
+  },
+  "programs": [
+    {
+      "id": "um-cs",
+      "name": "Computer Science",
+      "uni": "Maastricht University",
+      "short": "Maastricht",
+      "faculty": "Faculty of Science and Engineering",
+      "city": "Maastricht",
+      "country": "nl",
+      "language": "en",
+      "duration": "3 ani",
+      "tags": [
+        "tech",
+        "math"
+      ],
+      "description": "Programare, securitate informatică și sisteme de calcul.",
+      "kind": "external",
+      "admissionSummary": "Evaluare de diplomă și limbă și matematică.",
+      "requirements": [
+        "Diplomă de bacalaureat, filiera teoretică, din lista 2027–2028; alte diplome sunt evaluate individual.",
+        "Engleză: completează verificatorul oficial; scorurile/scutirile sunt încă neverificate în Busola.",
+        "Matematică VWO B: evaluare individuală, posibilă solicitare a programei.",
+        "Deficit matematică: Boswell/CCVX sau OMPT-D ≥60%, maximum două încercări; confirmă ruta cu universitatea."
+      ],
+      "documents": [
+        "Fotografie; CI/pașaport.",
+        "Situație școlară; diplomă disponibilă, apoi copie certificată.",
+        "Dovada englezei când se cere; acord de verificare dacă DUO nu verifică diploma.",
+        "Profil/specializare; programa ori testul suplimentar de matematică, dacă se solicită."
+      ],
+      "facts": [
+        {
+          "label": "Diploma românească",
+          "value": "Filiera teoretică este în lista de echivalare VWO; decizia finală rămâne la Maastricht.",
+          "year": "2027–2028",
+          "status": "official",
+          "source": [
+            "umDiploma27"
+          ]
+        },
+        {
+          "label": "Taxă anuală UE",
+          "value": "2.771 € pentru taxa statutară; eligibilitatea depinde de situația personală.",
+          "year": "2027–2028",
+          "status": "official",
+          "source": [
+            "umcsFee",
+            "umTuition27"
+          ]
+        },
+        {
+          "label": "Trai / lună",
+          "value": "≈1.462 €: suma calculată de Busola din tabelul UM/Nibud 2024. Fără școlarizare; reper național, nu ofertă de cazare sau tarif 2027.",
+          "year": "2024, reper istoric",
+          "status": "estimate",
+          "source": [
+            "umLiving"
+          ]
+        },
+        {
+          "label": "Engleză — de completat",
+          "value": "Scoruri/scutiri 2027 neverificate; folosește chestionarul oficial. Nu presupunem scutire automată.",
+          "year": "2027",
+          "status": "unknown",
+          "source": [
+            "umcsAdmission"
+          ]
+        },
+        {
+          "label": "Termen cetățeni UE",
+          "value": "1 mai 2027, 23:59 CET: Studielink + admitere MyApplication.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "umcsAdmission"
+          ]
+        },
+        {
+          "label": "Înmatriculare",
+          "value": "Plată recomandată: 1 august; finalizarea înmatriculării: 31 august 2027.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "umcsAdmission"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "Program fără numerus fixus; admitere pe condiții, nu pe un contingent competitiv publicat.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "umOpenAdmission"
+          ]
+        },
+        {
+          "label": "Ultima medie",
+          "value": "Nu se aplică o ultimă medie de repartizare; contează cerințele și evaluarea diplomei.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "umOpenAdmission"
+          ]
+        },
+        {
+          "label": "Durată / limbă",
+          "value": "3 ani, în engleză.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "umcsOverview",
+            "umcsCurriculum"
+          ]
+        },
+        {
+          "label": "Matematică / calendar",
+          "value": "Verificarea programei: până la 1 iunie 2027 (UE); confirmă termenul testului suplimentar.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "umcsAdmission"
+          ]
+        },
+        {
+          "label": "Matching",
+          "value": "Chestionar opțional; restul cerințelor rămân obligatorii.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "umcsAdmission"
+          ]
+        }
+      ],
+      "source": [
+        "umcsAdmission",
+        "umcsFee",
+        "umcsOverview",
+        "umcsCurriculum",
+        "umDiploma27",
+        "umSubjects27",
+        "umOpenAdmission",
+        "umLiving",
+        "umTuition27"
+      ],
+      "deadline": {
+        "date": "2027-05-01",
+        "label": "Înscriere UE · Studielink + MyApplication, 23:59 CET (ora indicată de UM)",
+        "year": "2027",
+        "source": [
+          "umcsAdmission"
+        ]
+      },
+      "budget": {
+        "currency": "EUR",
+        "tuitionAnnual": 2771,
+        "tuitionYear": "2027–2028",
+        "livingMonthly": 1462,
+        "livingYear": "2024, suma tabelului UM/Nibud",
+        "source": [
+          "umcsFee",
+          "umLiving"
+        ]
+      }
+    },
+    {
+      "id": "um-dsai",
+      "name": "Data Science and Artificial Intelligence",
+      "uni": "Maastricht University",
+      "short": "Maastricht",
+      "faculty": "Faculty of Science and Engineering",
+      "city": "Maastricht",
+      "country": "nl",
+      "language": "en",
+      "duration": "3 ani",
+      "tags": [
+        "tech",
+        "math"
+      ],
+      "description": "Analiza datelor, modele matematice și inteligență artificială.",
+      "kind": "external",
+      "admissionSummary": "Evaluare de diplomă și limbă și matematică.",
+      "requirements": [
+        "Diplomă de bacalaureat, filiera teoretică, din lista 2027–2028; alte diplome sunt evaluate individual.",
+        "Engleză: completează verificatorul oficial; scorurile/scutirile sunt încă neverificate în Busola.",
+        "Matematică VWO B: evaluare individuală, posibilă solicitare a programei.",
+        "Deficit matematică: Boswell/CCVX sau OMPT-D ≥60%, maximum două încercări; confirmă ruta cu universitatea."
+      ],
+      "documents": [
+        "Fotografie; CI/pașaport.",
+        "Situație școlară; diplomă disponibilă, apoi copie certificată.",
+        "Dovada englezei când se cere; acord de verificare dacă DUO nu verifică diploma.",
+        "Profil/specializare; programa ori testul suplimentar de matematică, dacă se solicită."
+      ],
+      "facts": [
+        {
+          "label": "Diploma românească",
+          "value": "Filiera teoretică este în lista de echivalare VWO; decizia finală rămâne la Maastricht.",
+          "year": "2027–2028",
+          "status": "official",
+          "source": [
+            "umDiploma27"
+          ]
+        },
+        {
+          "label": "Taxă anuală UE",
+          "value": "2.771 € pentru taxa statutară; eligibilitatea depinde de situația personală.",
+          "year": "2027–2028",
+          "status": "official",
+          "source": [
+            "umdsaiFee",
+            "umTuition27"
+          ]
+        },
+        {
+          "label": "Trai / lună",
+          "value": "≈1.462 €: suma calculată de Busola din tabelul UM/Nibud 2024. Fără școlarizare; reper național, nu ofertă de cazare sau tarif 2027.",
+          "year": "2024, reper istoric",
+          "status": "estimate",
+          "source": [
+            "umLiving"
+          ]
+        },
+        {
+          "label": "Engleză — de completat",
+          "value": "Scoruri/scutiri 2027 neverificate; folosește chestionarul oficial. Nu presupunem scutire automată.",
+          "year": "2027",
+          "status": "unknown",
+          "source": [
+            "umdsaiAdmission"
+          ]
+        },
+        {
+          "label": "Termen cetățeni UE",
+          "value": "1 mai 2027, 23:59 CET: Studielink + admitere MyApplication.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "umdsaiAdmission"
+          ]
+        },
+        {
+          "label": "Înmatriculare",
+          "value": "Plată recomandată: 1 august; finalizarea înmatriculării: 31 august 2027.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "umdsaiAdmission"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "Program fără numerus fixus; admitere pe condiții, nu pe un contingent competitiv publicat.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "umOpenAdmission"
+          ]
+        },
+        {
+          "label": "Ultima medie",
+          "value": "Nu se aplică o ultimă medie de repartizare; contează cerințele și evaluarea diplomei.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "umOpenAdmission"
+          ]
+        },
+        {
+          "label": "Durată / limbă",
+          "value": "3 ani, în engleză.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "umdsaiOverview",
+            "umdsaiCurriculum"
+          ]
+        },
+        {
+          "label": "Matematică / calendar",
+          "value": "Verificarea programei: până la 1 iunie 2027 (UE); confirmă termenul testului suplimentar.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "umdsaiAdmission"
+          ]
+        },
+        {
+          "label": "Matching",
+          "value": "Chestionar opțional; restul cerințelor rămân obligatorii.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "umdsaiAdmission"
+          ]
+        }
+      ],
+      "source": [
+        "umdsaiAdmission",
+        "umdsaiFee",
+        "umdsaiOverview",
+        "umdsaiCurriculum",
+        "umDiploma27",
+        "umSubjects27",
+        "umOpenAdmission",
+        "umLiving",
+        "umTuition27"
+      ],
+      "deadline": {
+        "date": "2027-05-01",
+        "label": "Înscriere UE · Studielink + MyApplication, 23:59 CET (ora indicată de UM)",
+        "year": "2027",
+        "source": [
+          "umdsaiAdmission"
+        ]
+      },
+      "budget": {
+        "currency": "EUR",
+        "tuitionAnnual": 2771,
+        "tuitionYear": "2027–2028",
+        "livingMonthly": 1462,
+        "livingYear": "2024, suma tabelului UM/Nibud",
+        "source": [
+          "umdsaiFee",
+          "umLiving"
+        ]
+      }
+    },
+    {
+      "id": "um-arts",
+      "name": "Arts and Culture",
+      "uni": "Maastricht University",
+      "short": "Maastricht",
+      "faculty": "Faculty of Arts and Social Sciences",
+      "city": "Maastricht",
+      "country": "nl",
+      "language": "en",
+      "duration": "3 ani",
+      "tags": [
+        "arts",
+        "society",
+        "communication"
+      ],
+      "description": "Cultură, istorie, media și interpretarea problemelor societății.",
+      "kind": "external",
+      "admissionSummary": "Evaluare de diplomă și limbă.",
+      "requirements": [
+        "Diplomă de bacalaureat, filiera teoretică, din lista 2027–2028; alte diplome sunt evaluate individual.",
+        "Engleză: completează verificatorul oficial; scorurile/scutirile sunt încă neverificate în Busola.",
+        "Urmează chestionarul de matching trimis de FASoS."
+      ],
+      "documents": [
+        "Fotografie; CI/pașaport.",
+        "Situație școlară; diplomă disponibilă, apoi copie certificată.",
+        "Dovada englezei când se cere; acord de verificare dacă DUO nu verifică diploma.",
+        "Documentele trebuie în neerlandeză, engleză, germană sau franceză; pentru acte românești pregătește traducerea acceptată."
+      ],
+      "facts": [
+        {
+          "label": "Diploma românească",
+          "value": "Filiera teoretică este în lista de echivalare VWO; decizia finală rămâne la Maastricht.",
+          "year": "2027–2028",
+          "status": "official",
+          "source": [
+            "umDiploma27"
+          ]
+        },
+        {
+          "label": "Taxă anuală UE",
+          "value": "2.771 € pentru taxa statutară; eligibilitatea depinde de situația personală.",
+          "year": "2027–2028",
+          "status": "official",
+          "source": [
+            "umartsFee",
+            "umTuition27"
+          ]
+        },
+        {
+          "label": "Trai / lună",
+          "value": "≈1.462 €: suma calculată de Busola din tabelul UM/Nibud 2024. Fără școlarizare; reper național, nu ofertă de cazare sau tarif 2027.",
+          "year": "2024, reper istoric",
+          "status": "estimate",
+          "source": [
+            "umLiving"
+          ]
+        },
+        {
+          "label": "Engleză — de completat",
+          "value": "Scoruri/scutiri 2027 neverificate; folosește chestionarul oficial. Nu presupunem scutire automată.",
+          "year": "2027",
+          "status": "unknown",
+          "source": [
+            "umartsAdmission"
+          ]
+        },
+        {
+          "label": "Termen cetățeni UE",
+          "value": "1 mai 2027, 23:59 CET: Studielink + admitere MyApplication.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "umartsAdmission"
+          ]
+        },
+        {
+          "label": "Înmatriculare",
+          "value": "Plată recomandată: 1 august; finalizarea înmatriculării: 31 august 2027.",
+          "year": "2027",
+          "status": "official",
+          "source": [
+            "umartsAdmission"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "Program fără numerus fixus; admitere pe condiții, nu pe un contingent competitiv publicat.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "umOpenAdmission"
+          ]
+        },
+        {
+          "label": "Ultima medie",
+          "value": "Nu se aplică o ultimă medie de repartizare; contează cerințele și evaluarea diplomei.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "umOpenAdmission"
+          ]
+        },
+        {
+          "label": "Durată / limbă",
+          "value": "3 ani, în engleză.",
+          "year": "pagina curentă",
+          "status": "official",
+          "source": [
+            "umartsOverview",
+            "umartsCurriculum"
+          ]
+        },
+        {
+          "label": "Versiunea paginii",
+          "value": "Calendarul și secțiunea de studii spun 2027–2028; introducerea păstrează 2026–2027. Reconfirmă detaliile cu FASoS înaintea aplicării.",
+          "year": "2027; neconcordanță editorială",
+          "status": "unknown",
+          "source": [
+            "umartsAdmission"
+          ]
+        }
+      ],
+      "source": [
+        "umartsAdmission",
+        "umartsFee",
+        "umartsOverview",
+        "umartsCurriculum",
+        "umDiploma27",
+        "umSubjects27",
+        "umOpenAdmission",
+        "umLiving",
+        "umTuition27"
+      ],
+      "deadline": {
+        "date": "2027-05-01",
+        "label": "Înscriere UE · Studielink + MyApplication, 23:59 CET (ora indicată de UM)",
+        "year": "2027",
+        "source": [
+          "umartsAdmission"
+        ]
+      },
+      "budget": {
+        "currency": "EUR",
+        "tuitionAnnual": 2771,
+        "tuitionYear": "2027–2028",
+        "livingMonthly": 1462,
+        "livingYear": "2024, suma tabelului UM/Nibud",
+        "source": [
+          "umartsFee",
+          "umLiving"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "sources": {
+    "poli_reg": {
+      "label": "POLITEHNICA · regulament 2026, revizia 2.0",
+      "url": "https://admitere.pub.ro/docs/Regulament_admitere_licenta_2026.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "poli_places": {
+      "label": "POLITEHNICA · oferta de locuri, actualizare 21.07.2026",
+      "url": "https://admitere.pub.ro/docs/Locuri%20Admitere_2026_Total.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "poli_fees": {
+      "label": "POLITEHNICA · sistem de taxe 2026–2027",
+      "url": "https://fils.upb.ro/wp-content/uploads/2026/09/Sistem-de-taxe-2026-2027.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_reg": {
+      "label": "UMF Carol Davila · regulament admitere 2026",
+      "url": "https://umfcd.ro/wp-content/uploads/2026/ADMITERE_2026/REGULAMENTUL_DE_ADMITERE/UMFCD_Regulament%20admitere%20licenta%202026_SENAT%2022.01.2026.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_exams": {
+      "label": "UMF Carol Davila · probele de concurs 2026",
+      "url": "https://umfcd.ro/wp-content/uploads/2026/ADMITERE_2026/TEMATICI_BIBLIOGRAFII_CONTINUT_CONCURS/Continutul%20probelor%20de%20concurs%20Admitere%202026.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_offer": {
+      "label": "UMF Carol Davila · programe, credite și taxe 2026–2027",
+      "url": "https://umfcd.ro/wp-content/uploads/2026/ADMITERE_2026/OFERTA_ANUALA_DE_SCOLARIZARE/Oferta%20anuala%20de%20scolarizare%20programe%20de%20licenta.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_places": {
+      "label": "UMF Carol Davila · cifra de școlarizare 2026–2027",
+      "url": "https://umfcd.ro/wp-content/uploads/2026/ADMITERE_2026/OFERTA_ANUALA_DE_SCOLARIZARE/Cifra%20de%20scolarizare%20LICENTA%202026-2027.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_july": {
+      "label": "UMF Carol Davila · calendar iulie 2026",
+      "url": "https://umfcd.ro/wp-content/uploads/2026/ADMITERE_2026/PERIOADELE_SESIUNILOR_DE_ADMITERE/Calendar%20inscriere%20admitere%20iulie%202026-2027.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_sept": {
+      "label": "UMF Carol Davila · calendar Nutriție septembrie 2026",
+      "url": "https://umfcd.ro/wp-content/uploads/2026/ADMITERE_2026/PERIOADELE_SESIUNILOR_DE_ADMITERE/Calendar%20Admitere%202026-2027%20-%20Sesiunea%20Septembrie.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_applyfee": {
+      "label": "UMF Carol Davila · taxa de înscriere și scutiri",
+      "url": "https://umfcd.ro/wp-content/uploads/2026/ADMITERE_2026/TAXE_DE_INSCRIERE/Taxe%20de%20inscriere,%20categorii%20exceptate.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_admission": {
+      "label": "UMF Carol Davila · admitere, bibliografii și rezultate",
+      "url": "https://umfcd.ro/admitere-la-studii-universitare-de-licenta-in-cadrul-umfcd-pentru-anul-universitar-2026-2027/",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_result_med": {
+      "label": "UMF · Medicină · admiși după contestații, 28.07.2026",
+      "url": "https://umfcd.ro/wp-content/uploads/2026/ADMITERE_2026/LISTE_REZULTATE_FINALE/FACULTATEA_DE_MEDICINA/Lista%20Candidati%20Admisi%20Anonim.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_result_dental": {
+      "label": "UMF · Medicină dentară · admiși după contestații, 28.07.2026",
+      "url": "https://umfcd.ro/wp-content/uploads/2026/ADMITERE_2026/LISTE_REZULTATE_FINALE/FACULTATEA_DE_STOMATOLOGIE/Lista%20Candidati%20Admisi%20Anonim.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    },
+    "umf_result_pharm": {
+      "label": "UMF · Farmacie · admiși după contestații, 28.07.2026",
+      "url": "https://umfcd.ro/wp-content/uploads/2026/ADMITERE_2026/LISTE_REZULTATE_FINALE/FACULTATEA_DE_FARMACIE/Lista%20Candidati%20Admisi%20Anonim.pdf",
+      "year": "Admitere 2026 / an universitar 2026–2027"
+    }
+  },
+  "programs": [
+    {
+      "id": "poli-cti",
+      "name": "Calculatoare și tehnologia informației",
+      "uni": "POLITEHNICA București",
+      "short": "POLI",
+      "faculty": "Automatică și Calculatoare",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "tags": [
+        "tech",
+        "math"
+      ],
+      "color": "blue",
+      "description": "Programare, arhitectura calculatoarelor și sisteme informatice. Admitere la nivel de domeniu.",
+      "kind": "poli",
+      "writtenExam": true,
+      "source": [
+        "poli_reg",
+        "poli_places",
+        "poli_fees"
+      ],
+      "requirements": [
+        "Ruta simulată: sesiunea II, iulie 2026, diplomă românească de bac. P1: algebră și analiză; P2: fizică sau informatică.",
+        "Barem minim: media generală 5. Clasarea depinde de opțiuni și locuri; egalitățile se departajează. Admiterea anticipată are alt calcul."
+      ],
+      "documents": [
+        "Cerere cu opțiuni și declarație semnate; certificat de naștere, CI/pașaport și fotografie color.",
+        "Bac/adeverință și foaie matricolă; dovadă de plată/scutire; adeverință medicală emisă cu cel mult 30 zile înainte.",
+        "După caz: acte pentru concursuri, categorii speciale sau studii anterioare. Originalele se prezintă la confirmare; anexele VII–VIII detaliază dosarul."
+      ],
+      "tuition": {
+        "amount": 6200,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "Centrul București, licență în română, regim cu taxă"
+      },
+      "facts": [
+        {
+          "label": "Nivelul opțiunii",
+          "value": "Domeniu de licență; repartizarea pe programele din domeniu urmează regulile facultății.",
+          "source": [
+            "poli_reg"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "6.200 lei/an, licență în română, Centrul București (2026–2027).",
+          "source": [
+            "poli_fees"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxe de admitere",
+          "value": "125 lei înscriere; 50 lei înmatriculare; există scutiri în condițiile regulamentului.",
+          "source": [
+            "poli_fees"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Locuri — ofertă anuală",
+          "value": "267 buget și 170 taxă. Rândul general, fără locurile instituțiilor speciale. Oferta din 21.07.2026 poate fi suplimentată; nu reprezintă locuri rămase libere.",
+          "source": [
+            "poli_places"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Calendar — sesiune încheiată",
+          "value": "Sesiunea II: înscriere online 20–22 iulie, închidere la 12:00; examen 24 iulie 2026. Confirmarea și glisarea au etape distincte în regulament.",
+          "source": [
+            "poli_reg"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Ultima medie admisă",
+          "value": "Neconfirmată pentru acest domeniu, categorie și sesiune. Baremul 5 nu este ultima medie admisă.",
+          "source": [],
+          "status": "unknown",
+          "year": 2026
+        },
+        {
+          "label": "Cost de trai orientativ",
+          "value": "Circa 600 EUR/lună: reper național Study in Romania, fără an de referință. Bugetul real în București depinde de cazare și stilul de viață; taxa de studiu se adaugă separat.",
+          "source": [
+            "roliving"
+          ],
+          "status": "estimate",
+          "year": "Nedatat"
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulile, taxele, locurile și calendarul pentru intrarea în 2027 nu sunt confirmate în catalog.",
+          "source": [],
+          "status": "unknown",
+          "year": 2027
+        }
+      ],
+      "deadline": {
+        "date": "2026-07-22",
+        "label": "Închidere înscriere online sesiunea II, ora 12:00 — încheiat",
+        "year": 2026,
+        "source": [
+          "poli_reg"
+        ]
+      }
+    },
+    {
+      "id": "poli-aiasi",
+      "name": "Automatică, informatică aplicată și sisteme inteligente",
+      "uni": "POLITEHNICA București",
+      "short": "POLI",
+      "faculty": "Automatică și Calculatoare",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "tags": [
+        "tech",
+        "math",
+        "physics"
+      ],
+      "color": "blue",
+      "description": "Control automat, robotică și aplicații informatice pentru sisteme inteligente. Admitere la nivel de domeniu.",
+      "kind": "poli",
+      "writtenExam": true,
+      "source": [
+        "poli_reg",
+        "poli_places",
+        "poli_fees"
+      ],
+      "requirements": [
+        "Ruta simulată: sesiunea II, iulie 2026, diplomă românească de bac. P1: algebră și analiză; P2: fizică sau informatică.",
+        "Barem minim: media generală 5. Clasarea depinde de opțiuni și locuri; egalitățile se departajează. Admiterea anticipată are alt calcul."
+      ],
+      "documents": [
+        "Cerere cu opțiuni și declarație semnate; certificat de naștere, CI/pașaport și fotografie color.",
+        "Bac/adeverință și foaie matricolă; dovadă de plată/scutire; adeverință medicală emisă cu cel mult 30 zile înainte.",
+        "După caz: acte pentru concursuri, categorii speciale sau studii anterioare. Originalele se prezintă la confirmare; anexele VII–VIII detaliază dosarul."
+      ],
+      "tuition": {
+        "amount": 6200,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "Centrul București, licență în română, regim cu taxă"
+      },
+      "facts": [
+        {
+          "label": "Nivelul opțiunii",
+          "value": "Domeniu de licență; repartizarea pe programele din domeniu urmează regulile facultății.",
+          "source": [
+            "poli_reg"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "6.200 lei/an, licență în română, Centrul București (2026–2027).",
+          "source": [
+            "poli_fees"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxe de admitere",
+          "value": "125 lei înscriere; 50 lei înmatriculare; există scutiri în condițiile regulamentului.",
+          "source": [
+            "poli_fees"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Locuri — ofertă anuală",
+          "value": "244 buget și 115 taxă. Rândul general, fără locurile instituțiilor speciale. Oferta din 21.07.2026 poate fi suplimentată; nu reprezintă locuri rămase libere.",
+          "source": [
+            "poli_places"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Calendar — sesiune încheiată",
+          "value": "Sesiunea II: înscriere online 20–22 iulie, închidere la 12:00; examen 24 iulie 2026. Confirmarea și glisarea au etape distincte în regulament.",
+          "source": [
+            "poli_reg"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Ultima medie admisă",
+          "value": "Neconfirmată pentru acest domeniu, categorie și sesiune. Baremul 5 nu este ultima medie admisă.",
+          "source": [],
+          "status": "unknown",
+          "year": 2026
+        },
+        {
+          "label": "Cost de trai orientativ",
+          "value": "Circa 600 EUR/lună: reper național Study in Romania, fără an de referință. Bugetul real în București depinde de cazare și stilul de viață; taxa de studiu se adaugă separat.",
+          "source": [
+            "roliving"
+          ],
+          "status": "estimate",
+          "year": "Nedatat"
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulile, taxele, locurile și calendarul pentru intrarea în 2027 nu sunt confirmate în catalog.",
+          "source": [],
+          "status": "unknown",
+          "year": 2027
+        }
+      ],
+      "deadline": {
+        "date": "2026-07-22",
+        "label": "Închidere înscriere online sesiunea II, ora 12:00 — încheiat",
+        "year": 2026,
+        "source": [
+          "poli_reg"
+        ]
+      }
+    },
+    {
+      "id": "poli-ietti",
+      "name": "Inginerie electronică, telecomunicații și tehnologii informaționale",
+      "uni": "POLITEHNICA București",
+      "short": "POLI",
+      "faculty": "Electronică, Telecomunicații și Tehnologia Informației",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "tags": [
+        "tech",
+        "physics",
+        "math"
+      ],
+      "color": "blue",
+      "description": "Circuite, comunicații și tehnologii care conectează dispozitivele. Admitere la nivel de domeniu.",
+      "kind": "poli",
+      "writtenExam": true,
+      "source": [
+        "poli_reg",
+        "poli_places",
+        "poli_fees"
+      ],
+      "requirements": [
+        "Ruta simulată: sesiunea II, iulie 2026, diplomă românească de bac. P1: algebră și analiză; P2: fizică sau informatică.",
+        "Barem minim: media generală 5. Clasarea depinde de opțiuni și locuri; egalitățile se departajează. Admiterea anticipată are alt calcul."
+      ],
+      "documents": [
+        "Cerere cu opțiuni și declarație semnate; certificat de naștere, CI/pașaport și fotografie color.",
+        "Bac/adeverință și foaie matricolă; dovadă de plată/scutire; adeverință medicală emisă cu cel mult 30 zile înainte.",
+        "După caz: acte pentru concursuri, categorii speciale sau studii anterioare. Originalele se prezintă la confirmare; anexele VII–VIII detaliază dosarul."
+      ],
+      "tuition": {
+        "amount": 6200,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "Centrul București, licență în română, regim cu taxă"
+      },
+      "facts": [
+        {
+          "label": "Nivelul opțiunii",
+          "value": "Domeniu de licență; repartizarea pe programele din domeniu urmează regulile facultății.",
+          "source": [
+            "poli_reg"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "6.200 lei/an, licență în română, Centrul București (2026–2027).",
+          "source": [
+            "poli_fees"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxe de admitere",
+          "value": "125 lei înscriere; 50 lei înmatriculare; există scutiri în condițiile regulamentului.",
+          "source": [
+            "poli_fees"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Locuri — ofertă anuală",
+          "value": "410 buget și 125 taxă. Rândul general, fără locurile instituțiilor speciale. Oferta din 21.07.2026 poate fi suplimentată; nu reprezintă locuri rămase libere.",
+          "source": [
+            "poli_places"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Calendar — sesiune încheiată",
+          "value": "Sesiunea II: înscriere online 20–22 iulie, închidere la 12:00; examen 24 iulie 2026. Confirmarea și glisarea au etape distincte în regulament.",
+          "source": [
+            "poli_reg"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Ultima medie admisă",
+          "value": "Neconfirmată pentru acest domeniu, categorie și sesiune. Baremul 5 nu este ultima medie admisă.",
+          "source": [],
+          "status": "unknown",
+          "year": 2026
+        },
+        {
+          "label": "Cost de trai orientativ",
+          "value": "Circa 600 EUR/lună: reper național Study in Romania, fără an de referință. Bugetul real în București depinde de cazare și stilul de viață; taxa de studiu se adaugă separat.",
+          "source": [
+            "roliving"
+          ],
+          "status": "estimate",
+          "year": "Nedatat"
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulile, taxele, locurile și calendarul pentru intrarea în 2027 nu sunt confirmate în catalog.",
+          "source": [],
+          "status": "unknown",
+          "year": 2027
+        }
+      ],
+      "deadline": {
+        "date": "2026-07-22",
+        "label": "Închidere înscriere online sesiunea II, ora 12:00 — încheiat",
+        "year": 2026,
+        "source": [
+          "poli_reg"
+        ]
+      }
+    },
+    {
+      "id": "umf-med",
+      "name": "Medicină",
+      "uni": "UMF „Carol Davila” București",
+      "short": "UMF",
+      "faculty": "Facultatea de Medicină",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "umf",
+      "examKey": "umfMed",
+      "scoreMax": 100,
+      "writtenExam": true,
+      "color": "sage",
+      "tags": [
+        "health",
+        "biology"
+      ],
+      "description": "Pentru interesul față de corpul uman, diagnostic și îngrijirea sănătății.",
+      "source": [
+        "umf_reg",
+        "umf_exams",
+        "umf_offer",
+        "umf_places",
+        "umf_admission",
+        "umf_july"
+      ],
+      "requirements": [
+        "Biologie: 60 întrebări; fizică sau chimie: 40; durata 2 ore și 30 minute.",
+        "Un punct pe răspuns corect; clasare după punctaj. Minimum nota 5 sau echivalent. Bacul intervine la departajare, nu se adaugă la punctaj.",
+        "Pregătire după tematica și bibliografia oficială a programului; confirmarea locului necesită dosarul în original."
+      ],
+      "documents": [
+        "Cerere semnată; CI/pașaport, certificat de naștere; bac/adeverință și foaie matricolă.",
+        "Adeverință medicală, fotografie, dovadă de plată/scutire și informare privind datele personale.",
+        "După caz: schimbare de nume, competență lingvistică, studii anterioare, echivalare și categorie specială. Pentru CI electronică: dovada domiciliului."
+      ],
+      "documentSources": [
+        "umf_reg",
+        "umf_admission"
+      ],
+      "tuition": {
+        "amount": 19000,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "Program în română, candidat român/UE, loc cu taxă"
+      },
+      "facts": [
+        {
+          "label": "Formă și credite",
+          "value": "Cu frecvență; 360 ECTS; acreditat.",
+          "source": [
+            "umf_offer"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "19.000 lei/an pe loc cu taxă (2026–2027).",
+          "source": [
+            "umf_offer"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxe de admitere",
+          "value": "500 lei înscriere; scutiri pe bază de documente. Înmatriculare: 200 lei.",
+          "source": [
+            "umf_applyfee",
+            "umf_reg"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Locuri — ofertă anuală",
+          "value": "725 buget și 260 taxă. Totaluri publicate, incluzând categoriile rezervate în buget; repartizarea pe categorii este în tabelul oficial.",
+          "source": [
+            "umf_places"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Calendar — sesiune încheiată",
+          "value": "Înscriere 6–16 iulie; 17 iulie doar validări finale; examen 26 iulie 2026.",
+          "source": [
+            "umf_july"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Cost de trai orientativ",
+          "value": "Circa 600 EUR/lună: reper național Study in Romania, fără an de referință. Bugetul real în București depinde de cazare și stilul de viață; taxa de studiu se adaugă separat.",
+          "source": [
+            "roliving"
+          ],
+          "status": "estimate",
+          "year": "Nedatat"
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulile, taxele, locurile și calendarul pentru intrarea în 2027 nu sunt confirmate în catalog.",
+          "source": [],
+          "status": "unknown",
+          "year": 2027
+        },
+        {
+          "label": "Ultimul punctaj — reper istoric",
+          "value": "77/100 (7.70/10), lista generală de admiși după contestații, 28.07.2026. Nu este pragul final după toate redistribuirile; taxă neconfirmată.",
+          "source": [
+            "umf_result_med"
+          ],
+          "status": "historical",
+          "year": 2026
+        }
+      ],
+      "deadline": {
+        "date": "2026-07-16",
+        "label": "Închidere înscriere — sesiune încheiată",
+        "year": 2026,
+        "source": [
+          "umf_july"
+        ]
+      },
+      "historicalCutoffs": {
+        "budget": 77,
+        "scale": 100,
+        "year": 2026,
+        "session": "iulie · după contestații, 28.07",
+        "source": [
+          "umf_result_med"
+        ],
+        "note": "Buget, lista generală din 28 iulie; înainte de confirmări și redistribuiri. Taxă: reper neconfirmat. Egalitățile se departajează."
+      }
+    },
+    {
+      "id": "umf-dental",
+      "name": "Medicină dentară",
+      "uni": "UMF „Carol Davila” București",
+      "short": "UMF",
+      "faculty": "Facultatea de Stomatologie",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "umf",
+      "examKey": "umfDental",
+      "scoreMax": 100,
+      "writtenExam": true,
+      "color": "sage",
+      "tags": [
+        "health",
+        "biology"
+      ],
+      "description": "Studiul sănătății orale și al tratamentelor stomatologice.",
+      "source": [
+        "umf_reg",
+        "umf_exams",
+        "umf_offer",
+        "umf_places",
+        "umf_admission",
+        "umf_july"
+      ],
+      "requirements": [
+        "Biologie: 60 întrebări; fizică sau chimie: 40; durata 2 ore și 30 minute.",
+        "Un punct pe răspuns corect; clasare după punctaj. Minimum nota 5 sau echivalent. Bacul intervine la departajare, nu se adaugă la punctaj.",
+        "Pregătire după tematica și bibliografia oficială a programului; confirmarea locului necesită dosarul în original."
+      ],
+      "documents": [
+        "Cerere semnată; CI/pașaport, certificat de naștere; bac/adeverință și foaie matricolă.",
+        "Adeverință medicală, fotografie, dovadă de plată/scutire și informare privind datele personale.",
+        "După caz: schimbare de nume, competență lingvistică, studii anterioare, echivalare și categorie specială. Pentru CI electronică: dovada domiciliului."
+      ],
+      "documentSources": [
+        "umf_reg",
+        "umf_admission"
+      ],
+      "tuition": {
+        "amount": 19000,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "Program în română, candidat român/UE, loc cu taxă"
+      },
+      "facts": [
+        {
+          "label": "Formă și credite",
+          "value": "Cu frecvență; 360 ECTS; acreditat.",
+          "source": [
+            "umf_offer"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "19.000 lei/an pe loc cu taxă (2026–2027).",
+          "source": [
+            "umf_offer"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxe de admitere",
+          "value": "500 lei înscriere; scutiri pe bază de documente. Înmatriculare: 200 lei.",
+          "source": [
+            "umf_applyfee",
+            "umf_reg"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Locuri — ofertă anuală",
+          "value": "190 buget și 84 taxă. Totaluri publicate, incluzând categoriile rezervate în buget; repartizarea pe categorii este în tabelul oficial.",
+          "source": [
+            "umf_places"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Calendar — sesiune încheiată",
+          "value": "Înscriere 6–16 iulie; 17 iulie doar validări finale; examen 26 iulie 2026.",
+          "source": [
+            "umf_july"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Cost de trai orientativ",
+          "value": "Circa 600 EUR/lună: reper național Study in Romania, fără an de referință. Bugetul real în București depinde de cazare și stilul de viață; taxa de studiu se adaugă separat.",
+          "source": [
+            "roliving"
+          ],
+          "status": "estimate",
+          "year": "Nedatat"
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulile, taxele, locurile și calendarul pentru intrarea în 2027 nu sunt confirmate în catalog.",
+          "source": [],
+          "status": "unknown",
+          "year": 2027
+        },
+        {
+          "label": "Ultimul punctaj — reper istoric",
+          "value": "79/100 (7.90/10), lista generală de admiși după contestații, 28.07.2026. Nu este pragul final după toate redistribuirile; taxă neconfirmată.",
+          "source": [
+            "umf_result_dental"
+          ],
+          "status": "historical",
+          "year": 2026
+        }
+      ],
+      "deadline": {
+        "date": "2026-07-16",
+        "label": "Închidere înscriere — sesiune încheiată",
+        "year": 2026,
+        "source": [
+          "umf_july"
+        ]
+      },
+      "historicalCutoffs": {
+        "budget": 79,
+        "scale": 100,
+        "year": 2026,
+        "session": "iulie · după contestații, 28.07",
+        "source": [
+          "umf_result_dental"
+        ],
+        "note": "Buget, lista generală din 28 iulie; înainte de confirmări și redistribuiri. Taxă: reper neconfirmat. Egalitățile se departajează."
+      }
+    },
+    {
+      "id": "umf-pharm",
+      "name": "Farmacie",
+      "uni": "UMF „Carol Davila” București",
+      "short": "UMF",
+      "faculty": "Facultatea de Farmacie",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "umf",
+      "examKey": "umfPharm",
+      "scoreMax": 100,
+      "writtenExam": true,
+      "color": "sage",
+      "tags": [
+        "chemistry",
+        "health",
+        "biology"
+      ],
+      "description": "Medicamente, substanțe active și utilizarea lor în îngrijirea sănătății.",
+      "source": [
+        "umf_reg",
+        "umf_exams",
+        "umf_offer",
+        "umf_places",
+        "umf_admission",
+        "umf_july"
+      ],
+      "requirements": [
+        "Chimie organică: 60 întrebări; biologie vegetală sau anatomia și fiziologia omului: 40; durata 2 ore și 30 minute.",
+        "Un punct pe răspuns corect; clasare după punctaj. Minimum nota 5 sau echivalent. Bacul intervine la departajare, nu se adaugă la punctaj.",
+        "Pregătire după tematica și bibliografia oficială a programului; confirmarea locului necesită dosarul în original."
+      ],
+      "documents": [
+        "Cerere semnată; CI/pașaport, certificat de naștere; bac/adeverință și foaie matricolă.",
+        "Adeverință medicală, fotografie, dovadă de plată/scutire și informare privind datele personale.",
+        "După caz: schimbare de nume, competență lingvistică, studii anterioare, echivalare și categorie specială. Pentru CI electronică: dovada domiciliului."
+      ],
+      "documentSources": [
+        "umf_reg",
+        "umf_admission"
+      ],
+      "tuition": {
+        "amount": 10000,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "Program în română, candidat român/UE, loc cu taxă"
+      },
+      "facts": [
+        {
+          "label": "Formă și credite",
+          "value": "Cu frecvență; 300 ECTS; acreditat.",
+          "source": [
+            "umf_offer"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "10.000 lei/an pe loc cu taxă (2026–2027).",
+          "source": [
+            "umf_offer"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxe de admitere",
+          "value": "500 lei înscriere; scutiri pe bază de documente. Înmatriculare: 200 lei.",
+          "source": [
+            "umf_applyfee",
+            "umf_reg"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Locuri — ofertă anuală",
+          "value": "94 buget și 20 taxă. Totaluri publicate, incluzând categoriile rezervate în buget; repartizarea pe categorii este în tabelul oficial.",
+          "source": [
+            "umf_places"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Calendar — sesiune încheiată",
+          "value": "Înscriere 6–16 iulie; 17 iulie doar validări finale; examen 26 iulie 2026.",
+          "source": [
+            "umf_july"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Cost de trai orientativ",
+          "value": "Circa 600 EUR/lună: reper național Study in Romania, fără an de referință. Bugetul real în București depinde de cazare și stilul de viață; taxa de studiu se adaugă separat.",
+          "source": [
+            "roliving"
+          ],
+          "status": "estimate",
+          "year": "Nedatat"
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulile, taxele, locurile și calendarul pentru intrarea în 2027 nu sunt confirmate în catalog.",
+          "source": [],
+          "status": "unknown",
+          "year": 2027
+        },
+        {
+          "label": "Ultimul punctaj — reper istoric",
+          "value": "55/100 (5.50/10), lista generală de admiși după contestații, 28.07.2026. Nu este pragul final după toate redistribuirile; taxă neconfirmată.",
+          "source": [
+            "umf_result_pharm"
+          ],
+          "status": "historical",
+          "year": 2026
+        }
+      ],
+      "deadline": {
+        "date": "2026-07-16",
+        "label": "Închidere înscriere — sesiune încheiată",
+        "year": 2026,
+        "source": [
+          "umf_july"
+        ]
+      },
+      "historicalCutoffs": {
+        "budget": 55,
+        "scale": 100,
+        "year": 2026,
+        "session": "iulie · după contestații, 28.07",
+        "source": [
+          "umf_result_pharm"
+        ],
+        "note": "Buget, lista generală din 28 iulie; înainte de confirmări și redistribuiri. Taxă: reper neconfirmat. Egalitățile se departajează."
+      }
+    },
+    {
+      "id": "umf-nutrition",
+      "name": "Nutriție și dietetică",
+      "uni": "UMF „Carol Davila” București",
+      "short": "UMF",
+      "faculty": "Facultatea de Farmacie",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "umf",
+      "examKey": "umfNutrition",
+      "scoreMax": 40,
+      "writtenExam": true,
+      "color": "sage",
+      "tags": [
+        "health",
+        "biology"
+      ],
+      "description": "Alimentație, metabolism și intervenții nutriționale.",
+      "source": [
+        "umf_reg",
+        "umf_exams",
+        "umf_offer",
+        "umf_places",
+        "umf_admission",
+        "umf_sept"
+      ],
+      "requirements": [
+        "Biologie: 40 întrebări; durata o oră și 30 minute.",
+        "Un punct pe răspuns corect; clasare după punctaj. Minimum nota 5 sau echivalent. Bacul intervine la departajare, nu se adaugă la punctaj.",
+        "Pregătire după tematica și bibliografia oficială a programului; confirmarea locului necesită dosarul în original."
+      ],
+      "documents": [
+        "Cerere semnată; CI/pașaport, certificat de naștere; bac/adeverință și foaie matricolă.",
+        "Adeverință medicală, fotografie, dovadă de plată/scutire și informare privind datele personale.",
+        "După caz: schimbare de nume, competență lingvistică, studii anterioare, echivalare și categorie specială. Pentru CI electronică: dovada domiciliului."
+      ],
+      "documentSources": [
+        "umf_reg",
+        "umf_admission"
+      ],
+      "tuition": {
+        "amount": 8000,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "Program în română, candidat român/UE, loc cu taxă"
+      },
+      "facts": [
+        {
+          "label": "Formă și credite",
+          "value": "Cu frecvență; 180 ECTS; autorizare provizorie.",
+          "source": [
+            "umf_offer"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "8.000 lei/an pe loc cu taxă (2026–2027).",
+          "source": [
+            "umf_offer"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Taxe de admitere",
+          "value": "500 lei înscriere; scutiri pe bază de documente. Înmatriculare: 200 lei.",
+          "source": [
+            "umf_applyfee",
+            "umf_reg"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Locuri — ofertă anuală",
+          "value": "31 buget și 18 taxă. Totaluri publicate, incluzând categoriile rezervate în buget; repartizarea pe categorii este în tabelul oficial.",
+          "source": [
+            "umf_places"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Calendar — sesiune încheiată",
+          "value": "Înscriere 1–7 septembrie; examen 11 septembrie 2026.",
+          "source": [
+            "umf_sept"
+          ],
+          "status": "historical",
+          "year": 2026
+        },
+        {
+          "label": "Cost de trai orientativ",
+          "value": "Circa 600 EUR/lună: reper național Study in Romania, fără an de referință. Bugetul real în București depinde de cazare și stilul de viață; taxa de studiu se adaugă separat.",
+          "source": [
+            "roliving"
+          ],
+          "status": "estimate",
+          "year": "Nedatat"
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulile, taxele, locurile și calendarul pentru intrarea în 2027 nu sunt confirmate în catalog.",
+          "source": [],
+          "status": "unknown",
+          "year": 2027
+        },
+        {
+          "label": "Ultima medie admisă",
+          "value": "Punctajul ultimului admis nu a fost verificat pe categorie și etapă.",
+          "source": [],
+          "status": "unknown",
+          "year": 2026
+        }
+      ],
+      "deadline": {
+        "date": "2026-09-07",
+        "label": "Închidere înscriere — sesiune încheiată",
+        "year": 2026,
+        "source": [
+          "umf_sept"
+        ]
+      }
+    }
+  ]
+}

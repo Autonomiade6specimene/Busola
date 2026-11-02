@@ -1,0 +1,242 @@
+{
+  "checked": "02.11.2026",
+  "sources": {
+    "ase": {
+      "label": "ASE · modalitatea concursului, 2026",
+      "url": "https://admitere.ase.ro/licenta-2026/info-admitere/Modalitate_concurs_admitere_2026.pdf",
+      "year": "Admitere 2026"
+    },
+    "offer": {
+      "label": "ASE · oferta de studii, 2026",
+      "url": "https://admitere.ase.ro/licenta-2026/info-admitere/Brosura_Admitere_2026.pdf",
+      "year": "Admitere 2026"
+    },
+    "tcs": {
+      "label": "Twente · Technical Computer Science",
+      "url": "https://www.utwente.nl/en/education/bachelor/programmes/technical-computer-science/enrolment/admission/",
+      "year": "Pagina curentă; anul de aplicare trebuie confirmat"
+    },
+    "bit": {
+      "label": "Twente · Business Information Technology",
+      "url": "https://www.utwente.nl/en/education/bachelor/programmes/business-information-technology/enrolment/admission/",
+      "year": "Pagina curentă; anul de aplicare trebuie confirmat"
+    },
+    "iba": {
+      "label": "Twente · International Business Administration",
+      "url": "https://www.utwente.nl/en/education/bachelor/programmes/international-business-administration/enrolment/admission/",
+      "year": "Pagina curentă; anul de aplicare trebuie confirmat"
+    },
+    "diploma": {
+      "label": "Twente · condiții pentru diploma românească",
+      "url": "https://www.utwente.nl/en/education/bachelor/application-admission/admission/",
+      "year": "Pagina curentă; secțiunea Romania"
+    }
+  },
+  "programs": [
+    {
+      "uni": "Academia de Studii Economice",
+      "short": "ASE",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "ase",
+      "source": [
+        "ase",
+        "offer"
+      ],
+      "id": "marketing",
+      "name": "Marketing",
+      "tags": [
+        "communication",
+        "business"
+      ],
+      "description": "O direcție de explorat dacă îți place să înțelegi oamenii și să transformi idei în mesaje.",
+      "color": "rose"
+    },
+    {
+      "uni": "Academia de Studii Economice",
+      "short": "ASE",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "ase",
+      "source": [
+        "ase",
+        "offer"
+      ],
+      "id": "management",
+      "name": "Management",
+      "tags": [
+        "business",
+        "society"
+      ],
+      "description": "Pentru interesul față de organizarea proiectelor, lucrul cu echipe și deciziile dintr-o organizație.",
+      "color": "gold"
+    },
+    {
+      "uni": "Academia de Studii Economice",
+      "short": "ASE",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "ase",
+      "source": [
+        "ase",
+        "offer"
+      ],
+      "id": "finance",
+      "name": "Finanțe și bănci",
+      "tags": [
+        "finance",
+        "math"
+      ],
+      "description": "O opțiune de explorat dacă îți plac cifrele, analiza și întrebările despre economie.",
+      "color": "sage"
+    },
+    {
+      "uni": "Academia de Studii Economice",
+      "short": "ASE",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "ase",
+      "source": [
+        "ase",
+        "offer"
+      ],
+      "id": "accounting",
+      "name": "Contabilitate și informatică de gestiune",
+      "tags": [
+        "finance",
+        "tech",
+        "math"
+      ],
+      "description": "Pune în legătură interesul pentru informații financiare, instrumente digitale și analiză.",
+      "color": "sage"
+    },
+    {
+      "uni": "Academia de Studii Economice",
+      "short": "ASE",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "csie",
+      "source": [
+        "ase",
+        "offer"
+      ],
+      "id": "informatics",
+      "name": "Informatică economică",
+      "tags": [
+        "tech",
+        "business",
+        "math"
+      ],
+      "description": "O direcție la intersecția dintre programare, analiză și problemele organizațiilor.",
+      "color": "blue"
+    },
+    {
+      "uni": "Academia de Studii Economice",
+      "short": "ASE",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "csie",
+      "source": [
+        "ase",
+        "offer"
+      ],
+      "id": "cybernetics",
+      "name": "Cibernetică economică",
+      "tags": [
+        "math",
+        "finance",
+        "tech"
+      ],
+      "description": "Merită explorată dacă îți plac modelele matematice și analiza sistemelor economice.",
+      "color": "blue"
+    },
+    {
+      "uni": "Academia de Studii Economice",
+      "short": "ASE",
+      "city": "București",
+      "country": "ro",
+      "language": "ro",
+      "kind": "ase",
+      "source": [
+        "ase",
+        "offer"
+      ],
+      "id": "administration",
+      "name": "Administrație publică",
+      "tags": [
+        "society",
+        "communication"
+      ],
+      "description": "Pentru interesul față de instituții, comunități și felul în care sunt organizate serviciile publice.",
+      "color": "gold"
+    },
+    {
+      "uni": "University of Twente",
+      "short": "UT",
+      "city": "Enschede",
+      "country": "nl",
+      "language": "en",
+      "kind": "twente",
+      "id": "tcs",
+      "name": "Technical Computer Science",
+      "tags": [
+        "tech",
+        "math"
+      ],
+      "source": [
+        "tcs",
+        "diploma"
+      ],
+      "description": "O opțiune internațională de explorat pentru interesul față de informatică și rezolvarea problemelor.",
+      "color": "blue"
+    },
+    {
+      "uni": "University of Twente",
+      "short": "UT",
+      "city": "Enschede",
+      "country": "nl",
+      "language": "en",
+      "kind": "twente",
+      "id": "bit",
+      "name": "Business Information Technology",
+      "tags": [
+        "tech",
+        "business",
+        "math"
+      ],
+      "source": [
+        "bit",
+        "diploma"
+      ],
+      "description": "Leagă interesul pentru tehnologie de procesele și nevoile organizațiilor.",
+      "color": "sage"
+    },
+    {
+      "uni": "University of Twente",
+      "short": "UT",
+      "city": "Enschede",
+      "country": "nl",
+      "language": "en",
+      "kind": "twente",
+      "id": "iba",
+      "name": "International Business Administration",
+      "tags": [
+        "business",
+        "communication",
+        "finance"
+      ],
+      "source": [
+        "iba",
+        "diploma"
+      ],
+      "description": "O direcție internațională pentru interesul față de afaceri, organizații și comunicare.",
+      "color": "rose"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+BUSOLA V4 — PORNIRE PE WINDOWS
+
+1. Extrage arhiva ZIP într-un folder.
+2. Deschide Busola.html cu Chrome sau Microsoft Edge.
+3. F11 activează ecranul complet; în OBS poate fi capturată fereastra browserului.
+Nu trebuie instalat nimic. Aplicația și datele sunt în HTML; internetul este necesar numai la deschiderea surselor.
+
+CE ESTE NOU
+• Școlarizarea este explicată separat: loc la buget fără taxă de școlarizare; loc cu taxă cu suma anuală de plată. Taxele de înscriere și traiul sunt cheltuieli distincte.
+• Maximum 4 interese, păstrate la salvarea profilului.
+• 26 de opțiuni de studiu la 7 universități: 23 de programe și 3 domenii de admitere.
+• POLITEHNICA București: ACS — Calculatoare și tehnologia informației; ACS — Automatică, informatică aplicată și sisteme inteligente; ETTI — Inginerie electronică, telecomunicații și tehnologii informaționale.
+• UMF Carol Davila: Medicină, Medicină dentară, Farmacie, Nutriție și dietetică.
+• Simulări de admitere opționale, într-o secțiune extensibilă. Toate câmpurile pot rămâne goale.
+• ASE: notă proprie pentru CSIE. POLITEHNICA: două note și formula sesiunii II 2026, cu bac românesc. UMF: punctaj distinct pentru fiecare program, din 100 sau 40.
+• Reperul istoric și diferența sunt afișate separat de rezultatul personal. La UMF avem repere din lista generală de buget după contestații, nu rezultatul final după toate redistribuirile.
+
+FUNCȚII PĂSTRATE
+Profil și recomandări; catalog și surse; conturi locale demonstrative; favorite; comparație; raport text; tipărire PDF; Premium demo cu checklist și export .ics al termenelor viitoare verificate.
+Free permite 3 favorite și comparație cu 2 programe; Premium permite comparație cu 5 și favorite fără limita Free. Limita de 4 interese este independentă de aceste limite.
+
+CONTURI ȘI DATE
+Contul este demonstrativ, fără parolă și fără autentificare online. Folosiți prenume și e-mail fictive. Nu există plăți, sincronizare sau abonamente reale. Datele sunt păstrate în browserul dispozitivului; copierea fișierului pe alt PC nu transferă profilurile. Păstrați fișierul în aceeași locație și folosiți același browser pentru a regăsi datele.
+Numele contului completează automat profilul. Stocarea pentru fișiere locale poate varia între browsere; testați salvarea pe PC-ul de filmare.
+
+DATELE DIN CATALOG
+Informațiile au surse și ani. Pentru POLITEHNICA și UMF, admiterea 2027 nu este confirmată în catalog. O taxă pentru anul universitar 2026–2027 nu este o taxă confirmată pentru candidații care intră în toamna 2027.
+Locurile publicate nu sunt locuri libere în prezent. Baremul minim nu este ultima medie admisă. Cheltuielile de trai pentru București folosesc doar un reper național, nu o ofertă locală garantată.
+Motorul folosește reguli, fără asistent AI sau scraping în timp real. Sponsorizarea exemplificată nu modifică recomandările.
+
+VERIFICARE
+Verificate programatic formulele, scările de punctaj, separarea estimărilor și filtrul de examen scris. Verificate în browser: patru interese și blocarea celui de-al cincilea, continuare fără examene, validarea punctajelor, afișarea mediilor și a reperelor istorice, salvarea profilului.
+Deschiderea directă pe Windows nu a fost testată în acest mediu; livrabilul este HTML autonom pentru browser, nu un installer .exe.
+
+FIȘIERE
+Busola.html — aplicația autonomă.
+catalog-surse.json — catalogul cu 26 de opțiuni și 78 de surse.
+CATALOG-SI-LIMITE.md — acoperire și informații neconfirmate.
+MODEL-DE-AFACERI.md — model comercial și idei viitoare.

@@ -1,0 +1,798 @@
+{
+  "sources": {
+    "asefees": {
+      "label": "ASE · taxe oficiale",
+      "url": "https://admitere.ase.ro/licenta-2026/info-admitere/Taxe_inscriere_si_scolarizare.pdf",
+      "year": "2026–2027"
+    },
+    "aseseats": {
+      "label": "ASE · locuri IF, iulie 2026",
+      "url": "https://admitere.ase.ro/licenta-2026/info-admitere/Oferta_locuri_IF_iulie_2026.pdf",
+      "year": "Iulie 2026"
+    },
+    "asecutoff": {
+      "label": "ASE · ultimele medii IF, etapa 2",
+      "url": "https://admitere.ase.ro/licenta-2026/medii-admitere/MediiAdmitere_Etapa2_IF.pdf",
+      "year": "Iulie 2026 · etapa 2"
+    },
+    "asedocs": {
+      "label": "ASE · dosarul de înscriere IF",
+      "url": "https://admitere.ase.ro/licenta-2026/info-admitere/Dosar_inscriere_licenta_IF_2026.pdf",
+      "year": "2026"
+    },
+    "asecalendar": {
+      "label": "ASE · calendar IF, versiunea cu 17 iulie",
+      "url": "https://admitere.ase.ro/licenta-2026/info-admitere/Grafic_admitere_iulie_2026_2027_IF.pdf",
+      "year": "Iulie 2026 · sesiune încheiată"
+    },
+    "ase2027": {
+      "label": "ASE · statutul informațiilor 2027",
+      "url": "https://ase.ro/admitere/licenta",
+      "year": "2027–2028 · regulament în așteptare"
+    },
+    "roliving": {
+      "label": "Study in Romania · costuri orientative",
+      "url": "https://studyinromania.gov.ro/faq-costs",
+      "year": "Pagină fără an de referință; estimare națională"
+    }
+  },
+  "updates": {
+    "marketing": {
+      "faculty": "Marketing",
+      "writtenExam": false,
+      "documents": [
+        "Diploma/adeverința de bac și foaia matricolă.",
+        "Eseu motivațional datat și semnat.",
+        "Adeverință medicală emisă cu cel mult 6 luni înaintea înscrierii.",
+        "Certificat de naștere și act de identitate valabil.",
+        "Declarațiile din platformă: Anexele 7 și 8.",
+        "Dovada taxei la plata prin virament.",
+        "După caz: schimbarea numelui, studii universitare anterioare, certificat de limbă, echivalare și traduceri.",
+        "Pentru categorii speciale sau scutiri: actele justificative prevăzute în dosarul oficial."
+      ],
+      "documentSources": [
+        "asedocs"
+      ],
+      "applicationYear": "Reguli 2026 · 2027 în așteptare",
+      "source": [
+        "ase",
+        "asedocs",
+        "asefees",
+        "aseseats",
+        "asecutoff",
+        "asecalendar",
+        "ase2027"
+      ],
+      "tuition": {
+        "amount": 6500,
+        "currency": "RON",
+        "year": "2026–2027",
+        "scope": "Loc cu taxă, IF, cetățean român/UE; locurile la buget nu au această taxă."
+      },
+      "facts": [
+        {
+          "label": "Taxă anuală",
+          "value": "6.500 RON / an pe loc cu taxă. IF. RO/UE. Locul la buget nu presupune această taxă.",
+          "year": "2026–2027",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Taxă de înscriere",
+          "value": "200 RON pentru primele două opțiuni; +50 RON/opțiune suplimentară. Scutiri conform regulamentului.",
+          "year": "2026",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Cost de trai",
+          "value": "Reper național ≈600 EUR/lună, fără taxă de studiu; sursa nu precizează anul și nu este un buget verificat pentru București în 2027.",
+          "year": "Nedatat",
+          "status": "estimate",
+          "source": [
+            "roliving"
+          ]
+        },
+        {
+          "label": "Termene",
+          "value": "Înscriere: 9–17 iulie, până la 16:00. Rezultate finale: 30 iulie. Sesiune încheiată; nu sunt termene 2027.",
+          "year": "Iulie 2026",
+          "status": "historical",
+          "source": [
+            "asecalendar"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "166 buget + 252 taxă, coloana RO/UE/SEE/CE/UK; categoriile rezervate sunt separate. Nu sunt locuri rămase disponibile.",
+          "year": "Oferta iulie 2026",
+          "status": "historical",
+          "source": [
+            "aseseats"
+          ]
+        },
+        {
+          "label": "Ultima medie verificată",
+          "value": "Buget 9,10; taxă 8,13. IF, iulie 2026, etapa 2, rândul general al programului. Reper istoric, nu prag viitor.",
+          "year": "Iulie 2026 · etapa 2",
+          "status": "historical",
+          "source": [
+            "asecutoff"
+          ]
+        },
+        {
+          "label": "Statut 2027",
+          "value": "Pagina oficială anunță publicarea informațiilor după aprobarea regulamentului. Formulele, taxele, locurile și termenele 2026 nu sunt confirmate pentru 2027.",
+          "year": "2027–2028",
+          "status": "unknown",
+          "source": [
+            "ase2027"
+          ]
+        }
+      ],
+      "historicalCutoffs": {
+        "budget": 9.1,
+        "fee": 8.13,
+        "year": 2026,
+        "session": "Iulie · etapa 2",
+        "scope": "IF · rândul general al programului",
+        "source": [
+          "asecutoff"
+        ]
+      }
+    },
+    "management": {
+      "faculty": "Management",
+      "writtenExam": false,
+      "documents": [
+        "Diploma/adeverința de bac și foaia matricolă.",
+        "Eseu motivațional datat și semnat.",
+        "Adeverință medicală emisă cu cel mult 6 luni înaintea înscrierii.",
+        "Certificat de naștere și act de identitate valabil.",
+        "Declarațiile din platformă: Anexele 7 și 8.",
+        "Dovada taxei la plata prin virament.",
+        "După caz: schimbarea numelui, studii universitare anterioare, certificat de limbă, echivalare și traduceri.",
+        "Pentru categorii speciale sau scutiri: actele justificative prevăzute în dosarul oficial."
+      ],
+      "documentSources": [
+        "asedocs"
+      ],
+      "applicationYear": "Reguli 2026 · 2027 în așteptare",
+      "source": [
+        "ase",
+        "asedocs",
+        "asefees",
+        "aseseats",
+        "asecutoff",
+        "asecalendar",
+        "ase2027"
+      ],
+      "tuition": {
+        "amount": 6500,
+        "currency": "RON",
+        "year": "2026–2027",
+        "scope": "Loc cu taxă, IF, cetățean român/UE; locurile la buget nu au această taxă."
+      },
+      "facts": [
+        {
+          "label": "Taxă anuală",
+          "value": "6.500 RON / an pe loc cu taxă. IF. RO/UE. Locul la buget nu presupune această taxă.",
+          "year": "2026–2027",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Taxă de înscriere",
+          "value": "200 RON pentru primele două opțiuni; +50 RON/opțiune suplimentară. Scutiri conform regulamentului.",
+          "year": "2026",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Cost de trai",
+          "value": "Reper național ≈600 EUR/lună, fără taxă de studiu; sursa nu precizează anul și nu este un buget verificat pentru București în 2027.",
+          "year": "Nedatat",
+          "status": "estimate",
+          "source": [
+            "roliving"
+          ]
+        },
+        {
+          "label": "Termene",
+          "value": "Înscriere: 9–17 iulie, până la 16:00. Rezultate finale: 30 iulie. Sesiune încheiată; nu sunt termene 2027.",
+          "year": "Iulie 2026",
+          "status": "historical",
+          "source": [
+            "asecalendar"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "188 buget + 408 taxă, coloana RO/UE/SEE/CE/UK; categoriile rezervate sunt separate. Nu sunt locuri rămase disponibile.",
+          "year": "Oferta iulie 2026",
+          "status": "historical",
+          "source": [
+            "aseseats"
+          ]
+        },
+        {
+          "label": "Ultima medie verificată",
+          "value": "Buget 8,95; taxă 7,58. IF, iulie 2026, etapa 2, rândul general al programului. Reper istoric, nu prag viitor.",
+          "year": "Iulie 2026 · etapa 2",
+          "status": "historical",
+          "source": [
+            "asecutoff"
+          ]
+        },
+        {
+          "label": "Statut 2027",
+          "value": "Pagina oficială anunță publicarea informațiilor după aprobarea regulamentului. Formulele, taxele, locurile și termenele 2026 nu sunt confirmate pentru 2027.",
+          "year": "2027–2028",
+          "status": "unknown",
+          "source": [
+            "ase2027"
+          ]
+        }
+      ],
+      "historicalCutoffs": {
+        "budget": 8.95,
+        "fee": 7.58,
+        "year": 2026,
+        "session": "Iulie · etapa 2",
+        "scope": "IF · rândul general al programului",
+        "source": [
+          "asecutoff"
+        ]
+      }
+    },
+    "finance": {
+      "faculty": "Finanțe, Asigurări, Bănci și Burse de Valori",
+      "writtenExam": false,
+      "documents": [
+        "Diploma/adeverința de bac și foaia matricolă.",
+        "Eseu motivațional datat și semnat.",
+        "Adeverință medicală emisă cu cel mult 6 luni înaintea înscrierii.",
+        "Certificat de naștere și act de identitate valabil.",
+        "Declarațiile din platformă: Anexele 7 și 8.",
+        "Dovada taxei la plata prin virament.",
+        "După caz: schimbarea numelui, studii universitare anterioare, certificat de limbă, echivalare și traduceri.",
+        "Pentru categorii speciale sau scutiri: actele justificative prevăzute în dosarul oficial."
+      ],
+      "documentSources": [
+        "asedocs"
+      ],
+      "applicationYear": "Reguli 2026 · 2027 în așteptare",
+      "source": [
+        "ase",
+        "asedocs",
+        "asefees",
+        "aseseats",
+        "asecutoff",
+        "asecalendar",
+        "ase2027"
+      ],
+      "tuition": {
+        "amount": 6500,
+        "currency": "RON",
+        "year": "2026–2027",
+        "scope": "Loc cu taxă, IF, cetățean român/UE; locurile la buget nu au această taxă."
+      },
+      "facts": [
+        {
+          "label": "Taxă anuală",
+          "value": "6.500 RON / an pe loc cu taxă. IF. RO/UE. Locul la buget nu presupune această taxă.",
+          "year": "2026–2027",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Taxă de înscriere",
+          "value": "200 RON pentru primele două opțiuni; +50 RON/opțiune suplimentară. Scutiri conform regulamentului.",
+          "year": "2026",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Cost de trai",
+          "value": "Reper național ≈600 EUR/lună, fără taxă de studiu; sursa nu precizează anul și nu este un buget verificat pentru București în 2027.",
+          "year": "Nedatat",
+          "status": "estimate",
+          "source": [
+            "roliving"
+          ]
+        },
+        {
+          "label": "Termene",
+          "value": "Înscriere: 9–17 iulie, până la 16:00. Rezultate finale: 30 iulie. Sesiune încheiată; nu sunt termene 2027.",
+          "year": "Iulie 2026",
+          "status": "historical",
+          "source": [
+            "asecalendar"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "195 buget + 251 taxă, coloana RO/UE/SEE/CE/UK; categoriile rezervate sunt separate. Nu sunt locuri rămase disponibile.",
+          "year": "Oferta iulie 2026",
+          "status": "historical",
+          "source": [
+            "aseseats"
+          ]
+        },
+        {
+          "label": "Ultima medie verificată",
+          "value": "Buget 8,94; taxă 7,58. IF, iulie 2026, etapa 2, rândul general al programului. Reper istoric, nu prag viitor.",
+          "year": "Iulie 2026 · etapa 2",
+          "status": "historical",
+          "source": [
+            "asecutoff"
+          ]
+        },
+        {
+          "label": "Statut 2027",
+          "value": "Pagina oficială anunță publicarea informațiilor după aprobarea regulamentului. Formulele, taxele, locurile și termenele 2026 nu sunt confirmate pentru 2027.",
+          "year": "2027–2028",
+          "status": "unknown",
+          "source": [
+            "ase2027"
+          ]
+        }
+      ],
+      "historicalCutoffs": {
+        "budget": 8.94,
+        "fee": 7.58,
+        "year": 2026,
+        "session": "Iulie · etapa 2",
+        "scope": "IF · rândul general al programului",
+        "source": [
+          "asecutoff"
+        ]
+      }
+    },
+    "accounting": {
+      "faculty": "Contabilitate și Informatică de Gestiune",
+      "writtenExam": false,
+      "documents": [
+        "Diploma/adeverința de bac și foaia matricolă.",
+        "Eseu motivațional datat și semnat.",
+        "Adeverință medicală emisă cu cel mult 6 luni înaintea înscrierii.",
+        "Certificat de naștere și act de identitate valabil.",
+        "Declarațiile din platformă: Anexele 7 și 8.",
+        "Dovada taxei la plata prin virament.",
+        "După caz: schimbarea numelui, studii universitare anterioare, certificat de limbă, echivalare și traduceri.",
+        "Pentru categorii speciale sau scutiri: actele justificative prevăzute în dosarul oficial."
+      ],
+      "documentSources": [
+        "asedocs"
+      ],
+      "applicationYear": "Reguli 2026 · 2027 în așteptare",
+      "source": [
+        "ase",
+        "asedocs",
+        "asefees",
+        "aseseats",
+        "asecutoff",
+        "asecalendar",
+        "ase2027"
+      ],
+      "tuition": {
+        "amount": 6500,
+        "currency": "RON",
+        "year": "2026–2027",
+        "scope": "Loc cu taxă, IF, cetățean român/UE; locurile la buget nu au această taxă."
+      },
+      "facts": [
+        {
+          "label": "Taxă anuală",
+          "value": "6.500 RON / an pe loc cu taxă. IF. RO/UE. Locul la buget nu presupune această taxă.",
+          "year": "2026–2027",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Taxă de înscriere",
+          "value": "200 RON pentru primele două opțiuni; +50 RON/opțiune suplimentară. Scutiri conform regulamentului.",
+          "year": "2026",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Cost de trai",
+          "value": "Reper național ≈600 EUR/lună, fără taxă de studiu; sursa nu precizează anul și nu este un buget verificat pentru București în 2027.",
+          "year": "Nedatat",
+          "status": "estimate",
+          "source": [
+            "roliving"
+          ]
+        },
+        {
+          "label": "Termene",
+          "value": "Înscriere: 9–17 iulie, până la 16:00. Rezultate finale: 30 iulie. Sesiune încheiată; nu sunt termene 2027.",
+          "year": "Iulie 2026",
+          "status": "historical",
+          "source": [
+            "asecalendar"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "180 buget + 304 taxă, coloana RO/UE/SEE/CE/UK; categoriile rezervate sunt separate. Nu sunt locuri rămase disponibile.",
+          "year": "Oferta iulie 2026",
+          "status": "historical",
+          "source": [
+            "aseseats"
+          ]
+        },
+        {
+          "label": "Ultima medie verificată",
+          "value": "Buget 9,07; taxă 7,48. IF, iulie 2026, etapa 2, rândul general al programului. Reper istoric, nu prag viitor.",
+          "year": "Iulie 2026 · etapa 2",
+          "status": "historical",
+          "source": [
+            "asecutoff"
+          ]
+        },
+        {
+          "label": "Statut 2027",
+          "value": "Pagina oficială anunță publicarea informațiilor după aprobarea regulamentului. Formulele, taxele, locurile și termenele 2026 nu sunt confirmate pentru 2027.",
+          "year": "2027–2028",
+          "status": "unknown",
+          "source": [
+            "ase2027"
+          ]
+        }
+      ],
+      "historicalCutoffs": {
+        "budget": 9.07,
+        "fee": 7.48,
+        "year": 2026,
+        "session": "Iulie · etapa 2",
+        "scope": "IF · rândul general al programului",
+        "source": [
+          "asecutoff"
+        ]
+      }
+    },
+    "informatics": {
+      "faculty": "Cibernetică, Statistică și Informatică Economică",
+      "writtenExam": true,
+      "documents": [
+        "Diploma/adeverința de bac și foaia matricolă.",
+        "Eseu motivațional datat și semnat.",
+        "Adeverință medicală emisă cu cel mult 6 luni înaintea înscrierii.",
+        "Certificat de naștere și act de identitate valabil.",
+        "Declarațiile din platformă: Anexele 7 și 8.",
+        "Dovada taxei la plata prin virament.",
+        "După caz: schimbarea numelui, studii universitare anterioare, certificat de limbă, echivalare și traduceri.",
+        "Pentru categorii speciale sau scutiri: actele justificative prevăzute în dosarul oficial."
+      ],
+      "documentSources": [
+        "asedocs"
+      ],
+      "applicationYear": "Reguli 2026 · 2027 în așteptare",
+      "source": [
+        "ase",
+        "asedocs",
+        "asefees",
+        "aseseats",
+        "asecutoff",
+        "asecalendar",
+        "ase2027"
+      ],
+      "tuition": {
+        "amount": 10000,
+        "currency": "RON",
+        "year": "2026–2027",
+        "scope": "Loc cu taxă, IF, cetățean român/UE; locurile la buget nu au această taxă."
+      },
+      "facts": [
+        {
+          "label": "Taxă anuală",
+          "value": "10.000 RON / an pe loc cu taxă. IF. RO/UE. Locul la buget nu presupune această taxă.",
+          "year": "2026–2027",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Taxă de înscriere",
+          "value": "200 RON pentru primele două opțiuni; +50 RON/opțiune suplimentară. Scutiri conform regulamentului.",
+          "year": "2026",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Cost de trai",
+          "value": "Reper național ≈600 EUR/lună, fără taxă de studiu; sursa nu precizează anul și nu este un buget verificat pentru București în 2027.",
+          "year": "Nedatat",
+          "status": "estimate",
+          "source": [
+            "roliving"
+          ]
+        },
+        {
+          "label": "Termene",
+          "value": "Înscriere: 9–17 iulie, până la 16:00. Rezultate finale: 30 iulie. Sesiune încheiată; nu sunt termene 2027.",
+          "year": "Iulie 2026",
+          "status": "historical",
+          "source": [
+            "asecalendar"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "289 buget + 91 taxă, coloana RO/UE/SEE/CE/UK; categoriile rezervate sunt separate. Nu sunt locuri rămase disponibile.",
+          "year": "Oferta iulie 2026",
+          "status": "historical",
+          "source": [
+            "aseseats"
+          ]
+        },
+        {
+          "label": "Ultima medie verificată",
+          "value": "Buget 5,00; taxă 5,04. IF, iulie 2026, etapa 2, rândul general al programului. Reper istoric, nu prag viitor.",
+          "year": "Iulie 2026 · etapa 2",
+          "status": "historical",
+          "source": [
+            "asecutoff"
+          ]
+        },
+        {
+          "label": "Statut 2027",
+          "value": "Pagina oficială anunță publicarea informațiilor după aprobarea regulamentului. Formulele, taxele, locurile și termenele 2026 nu sunt confirmate pentru 2027.",
+          "year": "2027–2028",
+          "status": "unknown",
+          "source": [
+            "ase2027"
+          ]
+        }
+      ],
+      "historicalCutoffs": {
+        "budget": 5.0,
+        "fee": 5.04,
+        "year": 2026,
+        "session": "Iulie · etapa 2",
+        "scope": "IF · rândul general al programului",
+        "source": [
+          "asecutoff"
+        ]
+      }
+    },
+    "cybernetics": {
+      "faculty": "Cibernetică, Statistică și Informatică Economică",
+      "writtenExam": true,
+      "documents": [
+        "Diploma/adeverința de bac și foaia matricolă.",
+        "Eseu motivațional datat și semnat.",
+        "Adeverință medicală emisă cu cel mult 6 luni înaintea înscrierii.",
+        "Certificat de naștere și act de identitate valabil.",
+        "Declarațiile din platformă: Anexele 7 și 8.",
+        "Dovada taxei la plata prin virament.",
+        "După caz: schimbarea numelui, studii universitare anterioare, certificat de limbă, echivalare și traduceri.",
+        "Pentru categorii speciale sau scutiri: actele justificative prevăzute în dosarul oficial."
+      ],
+      "documentSources": [
+        "asedocs"
+      ],
+      "applicationYear": "Reguli 2026 · 2027 în așteptare",
+      "source": [
+        "ase",
+        "asedocs",
+        "asefees",
+        "aseseats",
+        "asecutoff",
+        "asecalendar",
+        "ase2027"
+      ],
+      "tuition": {
+        "amount": 10000,
+        "currency": "RON",
+        "year": "2026–2027",
+        "scope": "Loc cu taxă, IF, cetățean român/UE; locurile la buget nu au această taxă."
+      },
+      "facts": [
+        {
+          "label": "Taxă anuală",
+          "value": "10.000 RON / an pe loc cu taxă. IF. RO/UE. Locul la buget nu presupune această taxă.",
+          "year": "2026–2027",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Taxă de înscriere",
+          "value": "200 RON pentru primele două opțiuni; +50 RON/opțiune suplimentară. Scutiri conform regulamentului.",
+          "year": "2026",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Cost de trai",
+          "value": "Reper național ≈600 EUR/lună, fără taxă de studiu; sursa nu precizează anul și nu este un buget verificat pentru București în 2027.",
+          "year": "Nedatat",
+          "status": "estimate",
+          "source": [
+            "roliving"
+          ]
+        },
+        {
+          "label": "Termene",
+          "value": "Înscriere: 9–17 iulie, până la 16:00. Rezultate finale: 30 iulie. Sesiune încheiată; nu sunt termene 2027.",
+          "year": "Iulie 2026",
+          "status": "historical",
+          "source": [
+            "asecalendar"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "209 buget + 76 taxă, coloana RO/UE/SEE/CE/UK; categoriile rezervate sunt separate. Nu sunt locuri rămase disponibile.",
+          "year": "Oferta iulie 2026",
+          "status": "historical",
+          "source": [
+            "aseseats"
+          ]
+        },
+        {
+          "label": "Ultima medie verificată",
+          "value": "Buget 6,68; taxă 6,44. IF, iulie 2026, etapa 2, rândul general al programului. Reper istoric, nu prag viitor.",
+          "year": "Iulie 2026 · etapa 2",
+          "status": "historical",
+          "source": [
+            "asecutoff"
+          ]
+        },
+        {
+          "label": "Statut 2027",
+          "value": "Pagina oficială anunță publicarea informațiilor după aprobarea regulamentului. Formulele, taxele, locurile și termenele 2026 nu sunt confirmate pentru 2027.",
+          "year": "2027–2028",
+          "status": "unknown",
+          "source": [
+            "ase2027"
+          ]
+        }
+      ],
+      "historicalCutoffs": {
+        "budget": 6.68,
+        "fee": 6.44,
+        "year": 2026,
+        "session": "Iulie · etapa 2",
+        "scope": "IF · rândul general al programului",
+        "source": [
+          "asecutoff"
+        ]
+      }
+    },
+    "administration": {
+      "faculty": "Administrație și Management Public",
+      "writtenExam": false,
+      "documents": [
+        "Diploma/adeverința de bac și foaia matricolă.",
+        "Eseu motivațional datat și semnat.",
+        "Adeverință medicală emisă cu cel mult 6 luni înaintea înscrierii.",
+        "Certificat de naștere și act de identitate valabil.",
+        "Declarațiile din platformă: Anexele 7 și 8.",
+        "Dovada taxei la plata prin virament.",
+        "După caz: schimbarea numelui, studii universitare anterioare, certificat de limbă, echivalare și traduceri.",
+        "Pentru categorii speciale sau scutiri: actele justificative prevăzute în dosarul oficial."
+      ],
+      "documentSources": [
+        "asedocs"
+      ],
+      "applicationYear": "Reguli 2026 · 2027 în așteptare",
+      "source": [
+        "ase",
+        "asedocs",
+        "asefees",
+        "aseseats",
+        "asecutoff",
+        "asecalendar",
+        "ase2027"
+      ],
+      "tuition": {
+        "amount": 6500,
+        "currency": "RON",
+        "year": "2026–2027",
+        "scope": "Loc cu taxă, IF, cetățean român/UE; locurile la buget nu au această taxă."
+      },
+      "facts": [
+        {
+          "label": "Taxă anuală",
+          "value": "6.500 RON / an pe loc cu taxă. IF. RO/UE. Locul la buget nu presupune această taxă.",
+          "year": "2026–2027",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Taxă de înscriere",
+          "value": "200 RON pentru primele două opțiuni; +50 RON/opțiune suplimentară. Scutiri conform regulamentului.",
+          "year": "2026",
+          "status": "historical",
+          "source": [
+            "asefees"
+          ]
+        },
+        {
+          "label": "Cost de trai",
+          "value": "Reper național ≈600 EUR/lună, fără taxă de studiu; sursa nu precizează anul și nu este un buget verificat pentru București în 2027.",
+          "year": "Nedatat",
+          "status": "estimate",
+          "source": [
+            "roliving"
+          ]
+        },
+        {
+          "label": "Termene",
+          "value": "Înscriere: 9–17 iulie, până la 16:00. Rezultate finale: 30 iulie. Sesiune încheiată; nu sunt termene 2027.",
+          "year": "Iulie 2026",
+          "status": "historical",
+          "source": [
+            "asecalendar"
+          ]
+        },
+        {
+          "label": "Locuri",
+          "value": "114 buget + 207 taxă, coloana RO/UE/SEE/CE/UK; categoriile rezervate sunt separate. Nu sunt locuri rămase disponibile.",
+          "year": "Oferta iulie 2026",
+          "status": "historical",
+          "source": [
+            "aseseats"
+          ]
+        },
+        {
+          "label": "Ultima medie verificată",
+          "value": "Buget 8,51; taxă 6,34. IF, iulie 2026, etapa 2, rândul general al programului. Reper istoric, nu prag viitor.",
+          "year": "Iulie 2026 · etapa 2",
+          "status": "historical",
+          "source": [
+            "asecutoff"
+          ]
+        },
+        {
+          "label": "Statut 2027",
+          "value": "Pagina oficială anunță publicarea informațiilor după aprobarea regulamentului. Formulele, taxele, locurile și termenele 2026 nu sunt confirmate pentru 2027.",
+          "year": "2027–2028",
+          "status": "unknown",
+          "source": [
+            "ase2027"
+          ]
+        }
+      ],
+      "historicalCutoffs": {
+        "budget": 8.51,
+        "fee": 6.34,
+        "year": 2026,
+        "session": "Iulie · etapa 2",
+        "scope": "IF · rândul general al programului",
+        "source": [
+          "asecutoff"
+        ]
+      }
+    }
+  },
+  "programs": []
+}

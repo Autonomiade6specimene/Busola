@@ -1,0 +1,909 @@
+{
+  "sources": {
+    "uaic_info": {
+      "label": "UAIC Informatică — condiții admitere 2026",
+      "url": "https://admitere.uaic.ro/avada_portfolio/informatica-admitere-licenta-nou/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "uaic_psih": {
+      "label": "UAIC Psihologie — condiții admitere 2026",
+      "url": "https://admitere.uaic.ro/avada_portfolio/psihologie-si-stiinte-ale-educatiei-admitere-licenta/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "uaic_bio": {
+      "label": "UAIC Biologie — condiții admitere 2026",
+      "url": "https://admitere.uaic.ro/avada_portfolio/biology/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "uaic_docs": {
+      "label": "UAIC — documente licență 2026",
+      "url": "https://admitere.uaic.ro/acte-necesare-la-inscriere-licenta/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "uaic_calendar": {
+      "label": "UAIC — calendar septembrie 2026",
+      "url": "https://admitere.uaic.ro/admitere-licenta/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "uaic_places": {
+      "label": "UAIC — locuri septembrie 2026, document 26.08.2026",
+      "url": "https://admitere.uaic.ro/wp-content/uploads/2016/03/SITUATIE-FINALA-LOCURI-ADMITERE-SEPTEMBRIE-LICENTA_26-08-2026.pdf",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "uaic_camin": {
+      "label": "UAIC — tarife cămine 2026/2027",
+      "url": "https://www.uaic.ro/studenti/cazare/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "uaic_info_duration": {
+      "label": "UAIC — plan Informatică 2026–2029",
+      "url": "https://edu.info.uaic.ro/fise-discipline/2026/plan%20invatamant%20informatica%20seria%202026%20-%202029.pdf",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "uaic_psih_duration": {
+      "label": "UAIC Psihologie — oferta 2026",
+      "url": "https://www.psih.uaic.ro/admitere/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "uaic_bio_duration": {
+      "label": "UAIC Biologie — perioade studii",
+      "url": "https://www.bio.uaic.ro/?page_id=682",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "uaic_info_2027": {
+      "label": "UAIC Informatică — pagină 2027, calendar TBD și regulament 2026",
+      "url": "https://info.uaic.ro/admitere-licenta/",
+      "year": 2027,
+      "checked": "02.11.2026"
+    },
+    "ubb_info": {
+      "label": "UBB FMI — regulament admitere 2026",
+      "url": "https://www.cs.ubbcluj.ro/admitere/nivel-licenta/admiterea-la-facultatea-de-matematica-si-informatica-nivel-licenta/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "ubb_info_faq": {
+      "label": "UBB FMI — taxe și întrebări frecvente 2026",
+      "url": "https://www.cs.ubbcluj.ro/intrebari-frecvente-admitere-nivel-licenta-2026-facultatea-de-matematica-si-informatica/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "ubb_info_docs": {
+      "label": "UBB FMI — documente 2026",
+      "url": "https://www.cs.ubbcluj.ro/admitere/nivel-licenta/acte-necesare-la-inscrierea-la-facultate-nivel-licenta/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "ubb_info_calendar": {
+      "label": "UBB FMI — calendar septembrie 2026",
+      "url": "https://www.cs.ubbcluj.ro/admitere/nivel-licenta/calendarul-concursului-de-admitere-nivel-licenta/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "ubb_info_places": {
+      "label": "UBB FMI — locuri septembrie 2026",
+      "url": "https://www.cs.ubbcluj.ro/locuri-scoase-la-concurs-pentru-admiterea-nivel-licenta-sesiunea-septembrie-2026/",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "ubb_fsega": {
+      "label": "UBB FSEGA — ofertă și taxe 2026/2027",
+      "url": "https://infoadmitere.ubbcluj.ro/ro/licenta/stiinte_economice",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "ubb_fsega_rules": {
+      "label": "UBB FSEGA — criterii admitere 2026",
+      "url": "https://econ.ubbcluj.ro/admitere/2026/septembrie/licenta-regulament-admitere.php",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "ubb_fsega_docs": {
+      "label": "UBB FSEGA — înscriere 13–19 iulie 2026",
+      "url": "https://econ.ubbcluj.ro/admitere/2026/iulie/licenta-1-inscriere.php",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "ubb_fsega_places": {
+      "label": "UBB FSEGA — repartizare inițială iulie 2026",
+      "url": "https://econ.ubbcluj.ro/admitere/2026/iulie/regulamente/Licent%CC%A6a%CC%86%20Locuri%20admitere%202026%20initiale_09.06.2026.pdf",
+      "year": 2026,
+      "checked": "02.11.2026"
+    },
+    "ubb_camin": {
+      "label": "UBB — tarife cămine 2026/2027",
+      "url": "https://www.ubbcluj.ro/ro/taxe/tarife_de_cazare/1000",
+      "year": 2026,
+      "checked": "02.11.2026"
+    }
+  },
+  "programs": [
+    {
+      "id": "ubb-info",
+      "name": "Informatică",
+      "uni": "Universitatea Babeș-Bolyai",
+      "short": "UBB",
+      "faculty": "Facultatea de Matematică și Informatică",
+      "city": "Cluj-Napoca",
+      "country": "ro",
+      "language": "ro",
+      "tags": [
+        "tech",
+        "math"
+      ],
+      "description": "Programare, algoritmi și fundamente matematice pentru dezvoltarea software.",
+      "kind": "external",
+      "admissionSummary": "2026: examen grilă de matematică sau informatică; facilități pentru concursuri în condițiile regulamentului.",
+      "requirements": [
+        "Diplomă de bacalaureat sau echivalentă; înscriere online.",
+        "Probă fizică de 3 ore, 24 întrebări, la matematică sau informatică; minimum 5 la probă.",
+        "Nota Mate-Info UBB 2025/2026 poate înlocui examenul dacă depășește 6; se poate alege nota mai mare. Facilitățile olimpicilor cer documente.",
+        "Clasare în limita locurilor, după medie și ordinea opțiunilor; nota 5 nu garantează admiterea."
+      ],
+      "documents": [
+        "Cerere online și fișa candidatului (Anexa 2).",
+        "Diplomă/adeverință bac cu media și nota matematică/informatică; foaie matricolă.",
+        "CI, certificat de naștere, document schimbare nume dacă este cazul.",
+        "Adeverință medicală de maximum 3 luni; plata online.",
+        "După caz: acte concursuri/scutiri/categorii speciale, studii universitare anterioare și echivalare diplome străine."
+      ],
+      "tuition": {
+        "amount": 6400,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "an universitar 2026/2027; loc cu taxă; candidat român/UE/SEE"
+      },
+      "source": [
+        "ubb_info",
+        "ubb_info_docs",
+        "ubb_info_faq"
+      ],
+      "facts": [
+        {
+          "label": "Durată și formă",
+          "value": "3 ani; cu frecvență; română",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_info_places"
+          ]
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "6.400 lei/an pe loc cu taxă (2026/2027)",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_info_faq"
+          ]
+        },
+        {
+          "label": "Taxe de admitere",
+          "value": "50 lei procesare + 350 lei admitere, conform FAQ; scutiri condiționate de documente.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_info_faq"
+          ]
+        },
+        {
+          "label": "Locuri — septembrie 2026",
+          "value": "14 buget și 44 taxă, Informatică în română; situația actualizată 03.09.2026.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_info_places"
+          ]
+        },
+        {
+          "label": "Calendar — sesiune încheiată",
+          "value": "Înscriere 7–8 septembrie (ora 12:00); examen 9 septembrie, 9:00; confirmări în etape până la 14 septembrie.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_info_calendar"
+          ]
+        },
+        {
+          "label": "Cămin — cost parțial",
+          "value": "158–268 lei/loc/lună în căminele standard, categoria studenți români/UE/SEE; în limita repartizării.",
+          "year": 2026,
+          "status": "official",
+          "source": [
+            "ubb_camin"
+          ]
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulamentul, taxele, locurile și termenele pentru intrarea în 2027 nu au fost verificate. Datele 2026 sunt doar reper.",
+          "year": 2027,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Ultima medie de admitere",
+          "value": "Neverificată pe program, categorie și sesiune. Nu este folosită pentru estimarea șanselor.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Cost total de trai",
+          "value": "Neverificat. Tariful căminului nu include hrană, transport, cheltuieli personale și nu garantează un loc.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        }
+      ],
+      "deadline": {
+        "date": "2026-09-08",
+        "label": "Înscriere septembrie 2026, ora 12:00 — încheiat",
+        "year": 2026,
+        "source": [
+          "ubb_info_calendar"
+        ]
+      }
+    },
+    {
+      "id": "ubb-marketing",
+      "name": "Marketing",
+      "uni": "Universitatea Babeș-Bolyai",
+      "short": "UBB",
+      "faculty": "Facultatea de Științe Economice și Gestiunea Afacerilor",
+      "city": "Cluj-Napoca",
+      "country": "ro",
+      "language": "ro",
+      "tags": [
+        "business",
+        "communication",
+        "arts"
+      ],
+      "description": "Consumatori, comunicare comercială și cercetare de marketing.",
+      "kind": "external",
+      "admissionSummary": "2026: probă economică eliminatorie + media bacului și eventuale bonificații.",
+      "requirements": [
+        "Bac promovat; înscriere online și alegerea ordinii opțiunilor.",
+        "Expunere și reprezentare grafică economică în română, evaluată Admis/Respins.",
+        "Clasare după bac plus bonificații eligibile, maximum 10. Oeconomicus 2025/2026: se adaugă 10% din nota de minimum 5.",
+        "Confirmarea locului și depunerea originalelor sunt obligatorii în termenele facultății."
+      ],
+      "documents": [
+        "Fișa semnată; bac/adeverință și foaie matricolă.",
+        "Certificat de naștere, CI (și domiciliu pentru CEI), fotografie 3/4 JPG, adeverință medicală.",
+        "Proba economică, olografă, datată și semnată, scanată PDF.",
+        "Dovadă taxă/scutire; după caz, echivalare diplomă străină și adeverință despre studiile universitare anterioare."
+      ],
+      "tuition": {
+        "amount": 6500,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "an universitar 2026/2027; loc cu taxă; candidat român/UE/SEE"
+      },
+      "source": [
+        "ubb_fsega",
+        "ubb_fsega_rules",
+        "ubb_fsega_docs"
+      ],
+      "facts": [
+        {
+          "label": "Durată și formă",
+          "value": "3 ani; cu frecvență; română",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_fsega"
+          ]
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "6.500 lei/an, loc cu taxă (2026/2027)",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_fsega"
+          ]
+        },
+        {
+          "label": "Taxe de admitere",
+          "value": "450 lei/dosar: 150 procesare + 300 înscriere; o taxă pentru opțiunile din același dosar.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_fsega_docs"
+          ]
+        },
+        {
+          "label": "Locuri — iulie 2026",
+          "value": "38 buget și 110 taxă în repartizarea inițială din 09.06.2026; categoriile speciale pot modifica numărul locurilor cu taxă.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_fsega_places"
+          ]
+        },
+        {
+          "label": "Calendar — sesiune încheiată",
+          "value": "Înscrieri 13–19 iulie 2026, ultima zi până la 23:59.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_fsega_docs"
+          ]
+        },
+        {
+          "label": "Cămin — cost parțial",
+          "value": "158–268 lei/loc/lună în căminele standard, studenți români/UE/SEE; locul nu este garantat.",
+          "year": 2026,
+          "status": "official",
+          "source": [
+            "ubb_camin"
+          ]
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulamentul, taxele, locurile și termenele pentru intrarea în 2027 nu au fost verificate. Datele 2026 sunt doar reper.",
+          "year": 2027,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Ultima medie de admitere",
+          "value": "Neverificată pe program, categorie și sesiune. Nu este folosită pentru estimarea șanselor.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Cost total de trai",
+          "value": "Neverificat. Tariful căminului nu include hrană, transport, cheltuieli personale și nu garantează un loc.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        }
+      ],
+      "deadline": {
+        "date": "2026-07-19",
+        "label": "Înscriere iulie 2026, ora 23:59 — încheiat",
+        "year": 2026,
+        "source": [
+          "ubb_fsega_docs"
+        ]
+      }
+    },
+    {
+      "id": "ubb-finante",
+      "name": "Finanțe și bănci",
+      "uni": "Universitatea Babeș-Bolyai",
+      "short": "UBB",
+      "faculty": "Facultatea de Științe Economice și Gestiunea Afacerilor",
+      "city": "Cluj-Napoca",
+      "country": "ro",
+      "language": "ro",
+      "tags": [
+        "finance",
+        "math",
+        "business"
+      ],
+      "description": "Finanțe, instituții bancare și analiza deciziilor economice.",
+      "kind": "external",
+      "admissionSummary": "2026: probă economică eliminatorie + media bacului și eventuale bonificații.",
+      "requirements": [
+        "Bac promovat; înscriere online și alegerea ordinii opțiunilor.",
+        "Expunere și reprezentare grafică economică în română, evaluată Admis/Respins.",
+        "Clasare după bac plus bonificații eligibile, maximum 10. Oeconomicus 2025/2026: se adaugă 10% din nota de minimum 5.",
+        "Confirmarea locului și depunerea originalelor sunt obligatorii în termenele facultății."
+      ],
+      "documents": [
+        "Fișa semnată; bac/adeverință și foaie matricolă.",
+        "Certificat de naștere, CI (și domiciliu pentru CEI), fotografie 3/4 JPG, adeverință medicală.",
+        "Proba economică, olografă, datată și semnată, scanată PDF.",
+        "Dovadă taxă/scutire; după caz, echivalare diplomă străină și adeverință despre studiile universitare anterioare."
+      ],
+      "tuition": {
+        "amount": 6500,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "an universitar 2026/2027; loc cu taxă; candidat român/UE/SEE"
+      },
+      "source": [
+        "ubb_fsega",
+        "ubb_fsega_rules",
+        "ubb_fsega_docs"
+      ],
+      "facts": [
+        {
+          "label": "Durată și formă",
+          "value": "3 ani; cu frecvență; română",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_fsega"
+          ]
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "6.500 lei/an, loc cu taxă (2026/2027)",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_fsega"
+          ]
+        },
+        {
+          "label": "Taxe de admitere",
+          "value": "450 lei/dosar: 150 procesare + 300 înscriere; o taxă pentru opțiunile din același dosar.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_fsega_docs"
+          ]
+        },
+        {
+          "label": "Locuri — iulie 2026",
+          "value": "49 buget și 186 taxă în repartizarea inițială din 09.06.2026; categoriile speciale pot modifica numărul locurilor cu taxă.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_fsega_places"
+          ]
+        },
+        {
+          "label": "Calendar — sesiune încheiată",
+          "value": "Înscrieri 13–19 iulie 2026, ultima zi până la 23:59.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "ubb_fsega_docs"
+          ]
+        },
+        {
+          "label": "Cămin — cost parțial",
+          "value": "158–268 lei/loc/lună în căminele standard, studenți români/UE/SEE; locul nu este garantat.",
+          "year": 2026,
+          "status": "official",
+          "source": [
+            "ubb_camin"
+          ]
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulamentul, taxele, locurile și termenele pentru intrarea în 2027 nu au fost verificate. Datele 2026 sunt doar reper.",
+          "year": 2027,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Ultima medie de admitere",
+          "value": "Neverificată pe program, categorie și sesiune. Nu este folosită pentru estimarea șanselor.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Cost total de trai",
+          "value": "Neverificat. Tariful căminului nu include hrană, transport, cheltuieli personale și nu garantează un loc.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        }
+      ],
+      "deadline": {
+        "date": "2026-07-19",
+        "label": "Înscriere iulie 2026, ora 23:59 — încheiat",
+        "year": 2026,
+        "source": [
+          "ubb_fsega_docs"
+        ]
+      }
+    },
+    {
+      "id": "uaic-info",
+      "name": "Informatică",
+      "uni": "Universitatea „Alexandru Ioan Cuza” din Iași",
+      "short": "UAIC",
+      "faculty": "Facultatea de Informatică",
+      "city": "Iași",
+      "country": "ro",
+      "language": "ro",
+      "tags": [
+        "tech",
+        "math"
+      ],
+      "description": "Programare și sisteme software, cu fundamente de algoritmică.",
+      "kind": "external",
+      "admissionSummary": "2026: 50% test + 25% maximum dintre nota bac matematică/informatică și test + 25% media bac.",
+      "requirements": [
+        "Diplomă de bac sau echivalentă.",
+        "Test scris de 3 ore; formula include nota la test și rezultatele bacului.",
+        "Departajare: media netrunchiată, nota testului, apoi media bac.",
+        "Confirmă locul, depune actele cerute și semnează contractul în calendarul facultății."
+      ],
+      "documents": [
+        "Fișă online; diplomă/adeverință bac.",
+        "CI și domiciliu; certificat de naștere; schimbare nume, dacă se aplică.",
+        "Adeverință medicală de maximum 6 luni; dovadă taxă/scutire.",
+        "După caz: echivalare studii, adeverințe universitare, acte categorii speciale. Acordul privind datele se asumă online și se semnează la confirmare."
+      ],
+      "tuition": {
+        "amount": 5000,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "an universitar 2026/2027; loc cu taxă; candidat român/UE/SEE"
+      },
+      "source": [
+        "uaic_info",
+        "uaic_docs",
+        "uaic_places",
+        "uaic_calendar"
+      ],
+      "facts": [
+        {
+          "label": "Durată și formă",
+          "value": "3 ani; cu frecvență; română",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_info_duration",
+            "uaic_places"
+          ]
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "5.000 lei/an pe loc cu taxă; seria care începe în 2026.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_info"
+          ]
+        },
+        {
+          "label": "Taxă de înscriere",
+          "value": "400 lei/domeniu.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_info"
+          ]
+        },
+        {
+          "label": "Locuri — sesiune încheiată",
+          "value": "Septembrie 2026: 57 buget total (54 statistic + 1 rural + 2 militari), 18 taxă; program în română.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_places"
+          ]
+        },
+        {
+          "label": "Calendar — septembrie 2026",
+          "value": "Înscriere 1–3 septembrie, ora 16:00; cont online până la ora 15:00. Selecție și confirmări 4–9 septembrie, după facultate.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_calendar"
+          ]
+        },
+        {
+          "label": "Cămin — cost parțial",
+          "value": "190–815 lei/loc/lună la buget; 360–985 lei la taxă, în funcție de cămin/cameră. Locul se acordă separat.",
+          "year": 2026,
+          "status": "official",
+          "source": [
+            "uaic_camin"
+          ]
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulamentul, taxele, locurile și termenele pentru intrarea în 2027 nu au fost verificate. Datele 2026 sunt doar reper.",
+          "year": 2027,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Ultima medie de admitere",
+          "value": "Neverificată pe program, categorie și sesiune. Nu este folosită pentru estimarea șanselor.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Cost total de trai",
+          "value": "Neverificat. Tariful căminului nu include hrană, transport, cheltuieli personale și nu garantează un loc.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Examen — septembrie 2026",
+          "value": "4 septembrie 2026, ora 9:00; acces din 8:00.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_info"
+          ]
+        },
+        {
+          "label": "Pagina 2027",
+          "value": "Există pagină intitulată 2027, dar înscrierea și testul sunt TBD, iar regulamentul indicat este 2026. Nu validăm regulile ca definitive pentru 2027.",
+          "year": 2027,
+          "status": "unknown",
+          "source": [
+            "uaic_info_2027"
+          ]
+        }
+      ],
+      "deadline": {
+        "date": "2026-09-03",
+        "label": "Înscriere septembrie 2026, ora 16:00 — încheiat",
+        "year": 2026,
+        "source": [
+          "uaic_calendar"
+        ]
+      }
+    },
+    {
+      "id": "uaic-psihologie",
+      "name": "Psihologie",
+      "uni": "Universitatea „Alexandru Ioan Cuza” din Iași",
+      "short": "UAIC",
+      "faculty": "Facultatea de Psihologie și Științe ale Educației",
+      "city": "Iași",
+      "country": "ro",
+      "language": "ro",
+      "tags": [
+        "society",
+        "communication",
+        "psychology"
+      ],
+      "description": "Studiul comportamentului, proceselor cognitive și relațiilor dintre oameni.",
+      "kind": "external",
+      "admissionSummary": "2026: 100% media bacalaureatului; selecție pe dosar.",
+      "requirements": [
+        "Diplomă de bac sau echivalentă.",
+        "Media de admitere este media bacului.",
+        "Departajare: media anilor de liceu, apoi media disciplinei Psihologie.",
+        "Confirmă locul, depune actele cerute și semnează contractul în calendarul facultății."
+      ],
+      "documents": [
+        "Fișă online; diplomă/adeverință bac.",
+        "CI și domiciliu; certificat de naștere; schimbare nume, dacă se aplică.",
+        "Adeverință medicală de maximum 6 luni; dovadă taxă/scutire.",
+        "După caz: echivalare studii, adeverințe universitare, acte categorii speciale. Acordul privind datele se asumă online și se semnează la confirmare."
+      ],
+      "tuition": {
+        "amount": 4800,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "an universitar 2026/2027; loc cu taxă; candidat român/UE/SEE"
+      },
+      "source": [
+        "uaic_psih",
+        "uaic_docs",
+        "uaic_places",
+        "uaic_calendar"
+      ],
+      "facts": [
+        {
+          "label": "Durată și formă",
+          "value": "3 ani; cu frecvență; română",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_psih_duration",
+            "uaic_places"
+          ]
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "4.800 lei/an pe loc cu taxă; seria care începe în 2026.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_psih"
+          ]
+        },
+        {
+          "label": "Taxă de înscriere",
+          "value": "400 lei/specializare; al doilea dosar la facultate: 200 lei.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_psih"
+          ]
+        },
+        {
+          "label": "Locuri — sesiune încheiată",
+          "value": "Septembrie 2026: 0 buget, 59 taxă; Psihologie IF, română.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_places"
+          ]
+        },
+        {
+          "label": "Calendar — septembrie 2026",
+          "value": "Înscriere 1–3 septembrie, ora 16:00; cont online până la ora 15:00. Selecție și confirmări 4–9 septembrie, după facultate.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_calendar"
+          ]
+        },
+        {
+          "label": "Cămin — cost parțial",
+          "value": "190–815 lei/loc/lună la buget; 360–985 lei la taxă, în funcție de cămin/cameră. Locul se acordă separat.",
+          "year": 2026,
+          "status": "official",
+          "source": [
+            "uaic_camin"
+          ]
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulamentul, taxele, locurile și termenele pentru intrarea în 2027 nu au fost verificate. Datele 2026 sunt doar reper.",
+          "year": 2027,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Ultima medie de admitere",
+          "value": "Neverificată pe program, categorie și sesiune. Nu este folosită pentru estimarea șanselor.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Cost total de trai",
+          "value": "Neverificat. Tariful căminului nu include hrană, transport, cheltuieli personale și nu garantează un loc.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        }
+      ],
+      "deadline": {
+        "date": "2026-09-03",
+        "label": "Înscriere septembrie 2026, ora 16:00 — încheiat",
+        "year": 2026,
+        "source": [
+          "uaic_calendar"
+        ]
+      }
+    },
+    {
+      "id": "uaic-biologie",
+      "name": "Biologie",
+      "uni": "Universitatea „Alexandru Ioan Cuza” din Iași",
+      "short": "UAIC",
+      "faculty": "Facultatea de Biologie",
+      "city": "Iași",
+      "country": "ro",
+      "language": "ro",
+      "tags": [
+        "biology"
+      ],
+      "description": "Organisme vii, ecosisteme și metode de laborator și cercetare.",
+      "kind": "external",
+      "admissionSummary": "2026: 100% media bacalaureatului; selecție pe dosar.",
+      "requirements": [
+        "Diplomă de bac sau echivalentă.",
+        "Media de admitere este media bacului.",
+        "Departajare: media anilor de liceu, apoi media ultimului an.",
+        "Confirmă locul, depune actele cerute și semnează contractul în calendarul facultății."
+      ],
+      "documents": [
+        "Fișă online; diplomă/adeverință bac.",
+        "CI și domiciliu; certificat de naștere; schimbare nume, dacă se aplică.",
+        "Adeverință medicală de maximum 6 luni; dovadă taxă/scutire.",
+        "După caz: echivalare studii, adeverințe universitare, acte categorii speciale. Acordul privind datele se asumă online și se semnează la confirmare."
+      ],
+      "tuition": {
+        "amount": 5000,
+        "currency": "RON",
+        "year": 2026,
+        "scope": "an universitar 2026/2027; loc cu taxă; candidat român/UE/SEE"
+      },
+      "source": [
+        "uaic_bio",
+        "uaic_docs",
+        "uaic_places",
+        "uaic_calendar"
+      ],
+      "facts": [
+        {
+          "label": "Durată și formă",
+          "value": "3 ani; cu frecvență; română",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_bio_duration",
+            "uaic_places"
+          ]
+        },
+        {
+          "label": "Taxă de școlarizare",
+          "value": "5.000 lei/an pe loc cu taxă; seria care începe în 2026.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_bio"
+          ]
+        },
+        {
+          "label": "Taxă de înscriere",
+          "value": "400 lei, unică pentru opțiunile facultății.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_bio"
+          ]
+        },
+        {
+          "label": "Locuri — sesiune încheiată",
+          "value": "Septembrie 2026: 15 buget total (12 statistic + 1 domenii prioritare + 1 carieră didactică + 1 rural), 37 taxă.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_places"
+          ]
+        },
+        {
+          "label": "Calendar — septembrie 2026",
+          "value": "Înscriere 1–3 septembrie, ora 16:00; cont online până la ora 15:00. Selecție și confirmări 4–9 septembrie, după facultate.",
+          "year": 2026,
+          "status": "historical",
+          "source": [
+            "uaic_calendar"
+          ]
+        },
+        {
+          "label": "Cămin — cost parțial",
+          "value": "190–815 lei/loc/lună la buget; 360–985 lei la taxă, în funcție de cămin/cameră. Locul se acordă separat.",
+          "year": 2026,
+          "status": "official",
+          "source": [
+            "uaic_camin"
+          ]
+        },
+        {
+          "label": "Admitere 2027",
+          "value": "Regulamentul, taxele, locurile și termenele pentru intrarea în 2027 nu au fost verificate. Datele 2026 sunt doar reper.",
+          "year": 2027,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Ultima medie de admitere",
+          "value": "Neverificată pe program, categorie și sesiune. Nu este folosită pentru estimarea șanselor.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        },
+        {
+          "label": "Cost total de trai",
+          "value": "Neverificat. Tariful căminului nu include hrană, transport, cheltuieli personale și nu garantează un loc.",
+          "year": 2026,
+          "status": "unknown",
+          "source": []
+        }
+      ],
+      "deadline": {
+        "date": "2026-09-03",
+        "label": "Înscriere septembrie 2026, ora 16:00 — încheiat",
+        "year": 2026,
+        "source": [
+          "uaic_calendar"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+BUSOLA — INSTRUCȚIUNI PENTRU REALIZAREA PREZENTĂRII
+
+1. CE ATAȘAȚI AI-ULUI
+Documentul actualizat „Busola-idei-pentru-prezentare.md”, numele echipei/membrilor și contribuțiile reale. Dacă instrumentul nu acceptă fișierul .md, deschideți-l într-un editor și copiați textul.
+Adăugați 3–5 capturi reale din versiunea actuală Busola: recomandări, fișă cu surse, comparație și planuri. Capturile trebuie să folosească date fictive.
+
+Sarcina voastră este numai prezentarea pentru evaluare. Aceasta trebuie să conțină toate explicațiile despre problemă, client, concurență, produs și dezvoltare. Nu există prezentare orală. Videoclipul este realizat separat de alt coleg și demonstrează MVP-ul; nu vă bazați pe el pentru a explica informații omise din slide-uri.
+
+2. PROMPT GATA DE COPIAT
+
+--- ÎNCEPUT PROMPT ---
+Pregătește conținutul prezentării proiectului Busola pentru semifinala High School Innovation Challenge. Scrie în română, clar și concret, pentru o echipă de liceeni.
+
+SARCINA TA ESTE NUMAI PREZENTAREA:
+Nu crea scenariu video, voice-over, timpi de filmare, note de vorbitor sau text pentru o prezentare orală. Nu împărți explicațiile între slide-uri și videoclip. Prezentarea va fi citită de juriu fără explicații orale și trebuie să fie completă în sine. Videoclipul MVP-ului este în responsabilitatea altui coleg.
+
+Folosește documentul atașat „Busola-idei-pentru-prezentare.md”. Respectă distincția de la început între fapte, propuneri și informații lipsă. Urmărește grila din document. Subcriteriul dedicat videoclipului este tratat separat de echipă; toate explicațiile de fond trebuie să fie în prezentare.
+
+Propune aproximativ 16 slide-uri, maximum 25 în total, inclusiv coperta și eventualele pagini de surse. Monetizarea poate ocupa un slide. Nu este necesar un plan financiar detaliat.
+
+PĂSTREAZĂ ACESTE FAPTE:
+- Aplicația locală include 26 de opțiuni de studiu la 7 universități; catalogul nu este exhaustiv.
+- Recomandările folosesc filtre și reguli explicabile. Media simulată folosește formulele disponibile, iar mediile istorice nu sunt praguri garantate pentru admiterea viitoare.
+- Conturile și planurile sunt demonstrative; nu există încasări, autentificare online sau sincronizare.
+- AI a asistat dezvoltarea și cercetarea; asistentul AI din produs este propus pentru viitor.
+- Părinții și colegii au exprimat interes în discuții informale, condiționat de simplitate și preț. Nu avem număr exact, procente sau cumpărători confirmați.
+- 29 lei/lună apare ca scenariu inițial în prototip; 99 lei/6 luni este o propunere nouă de testat, neimplementată. Nu sunt oferte comerciale active.
+- Bannerul sponsorizat este fictiv; nu există parteneriate confirmate.
+
+NU INVENTA nume, contribuții reale, citate, statistici, dimensiuni de piață, economii de timp, utilizatori plătitori, rezultate de testare, venituri sau funcții deja construite. Nu transforma datele istorice în reguli confirmate pentru 2027.
+
+ÎN PRIMA ETAPĂ LIVREAZĂ:
+A. Structura slide-urilor. Pentru fiecare: titlu, mesaj principal, textul efectiv de pe slide și sugestie vizuală. Folosește, de regulă, 3 idei scurte și 30–60 de cuvinte vizibile; adaptează la conținut. Claritatea pentru citire contează mai mult decât atingerea unei limite rigide. Informațiile necesare nu trebuie ascunse în note.
+B. O verificare pentru echipă: subcriteriile grilei → slide-urile care le acoperă. Pentru componenta video indică numai „realizată separat”; nu propune conținut sau distribuirea informațiilor către video.
+C. Lista informațiilor lipsă care trebuie completate: identitatea echipei, nume și contribuții reale. Folosește [DE COMPLETAT] unde este necesar. Dacă numărul interlocutorilor nu este cunoscut, păstrează formularea calitativă.
+D. Eventualele contradicții sau afirmații neacoperite de surse.
+
+Nu genera încă fișierul final. Mai întâi vom verifica textele.
+
+STIL:
+Un mesaj principal pe slide, text lizibil, formulări naturale și fără superlative vagi. Păstrează etichete clare pentru „MVP actual”, „Feedback inițial” și „Dezvoltare propusă”. Folosește capturile reale atașate. Orice reprezentare a unei funcții viitoare se etichetează „concept”. Nu inventa ecrane și nu le prezenta drept produs funcțional.
+
+Păstrează sursele din document lângă afirmațiile relevante. Pentru un fapt extern nou cere verificare și sursă, fără să completezi golurile prin presupuneri.
+--- SFÂRȘIT PROMPT ---
+
+3. DUPĂ CE VERIFICAȚI TEXTELE
+Corectați informațiile lipsă și verificați să nu fie confundate funcțiile viitoare cu cele existente, interesul inițial cu achiziții sau prețurile ipotetice cu venituri reale.
+
+Prompt de continuare:
+„Aplică aceste corecturi: [CORECTURILE NOASTRE]. Generează prezentarea folosind doar conținutul aprobat și capturile reale. Dacă instrumentul permite, oferă PPTX editabil; altfel pregătește conținutul pentru un editor de prezentări. Ținta este aproximativ 16 slide-uri, maximum 25 în total. Folosește fonturi lizibile, fundal deschis și verde închis inspirat din Busola. Slide-urile trebuie să poată fi înțelese fără prezentator. Nu crea note de vorbitor și nu adăuga conținut video. Păstrează sursele și distincția actual/propus. Dacă lipsește o captură, marchează locul fără să inventezi ecranul. Semnalează marcajele [DE COMPLETAT] rămase.”
+
+4. VERIFICAREA FIȘIERULUI FINAL
+- Deschideți fiecare slide după export și verificați textul tăiat, diacriticele și lizibilitatea capturilor.
+- Completați sau eliminați marcajele [DE COMPLETAT].
+- Verificați numărul total de slide-uri/pagini și sursele.
+- Exportați în PPT/PPTX sau PDF și verificați fișierul pe calculatorul de pe care va fi trimis.
+Pagina de predare: https://liceeni-ura.igodemy.ai/semifinale/
